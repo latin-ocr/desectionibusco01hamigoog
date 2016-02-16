@@ -1,0 +1,42 @@
+*1 8 8 Sestionum- Conicarum Lib} '‘Vg
+
+TR perpendicularis: ·sed recta SO, est diameter sectionis conicae
+(26lib.1.) δε haec diameter est axiS, quoniam rectam TR ei ordi-
+
+natim applicatam ad angulos rectos secat. Ergo constat prima pars
+propositi.
+
+Pars. II. Si circulus HTER contingat sectionem conicam in
+punctisT& R, &juncta TR fit ordinatim applicata axi AB qui
+in Ellipfi ὅτ Hyperbola est transversus ς erit circulus totus intra sec-
+tionem, · centrum hujusce circuli P erit in axe AB, ut patet, fit B
+vertex axis ipfi P propior & occurrat circulus axi AB in puncto
+Ead eas partes centriP ad quas estB, erit PE ipsa PB minor.
+Ducatur enim per verticem axis B, contingens BL & per punctum
+R ducatur recta circulum δι sectionem contingenS, occurrens oon-
+tingenti BL m L, et quoniam in Ellipfi aut Hyperbola axis secun
+duS, qui est contingenti BL paralleluS, minor est diametro contin-
+genti RL parallela, erit BL minor ἰΡίῖι RL (Cor. 31. ὅτ Cor.1 ¹14⁰·
+lib. 1.) δι m Parabola BL minor est ipsa RL (per Cor. 1. 3. lib. 2. ὅτ
+
+Cor. 3. 3 lib. 3.) jungantur igitur PL, PR, et quoniam RL circu-
+lum contingit, erit angulus PRL rectus, est autem angulus PBL
+
+rectus; igitur, propter communem hypothenusam, quadrata ex
+PB, BL simul aequalia sunt quadratis ex PR, RL fimul. sed 'qua-
+dratum ex BL minus est quadrato ex RJ. ,ergo quadratum ex ΡΒ
+
+majus est quadrato ex PR: ergo ipsa recta PB major cst ipffi ΡΒ, hoe
+est ipffi PE, ergoarcus circuli TER occurrit axi intra kctioncrn,
+
+δε proindetotus iste arcus est intra sectionem, aliter circulus occur-
+teret sectioni i’n alio puncto praeoet ptmcta domm (contra psteicedt)
+δε cum manifestum est circulum occurrere axi AB iterurn' m H
+¹ puncto inti-‚a sectionem, erit totus arcus THR‚ δι’ proinde totuscssr-
+culus intra sectionem. Eodem prorsus modo ostendetur circulum
+cadere totum extra Elliplim, cum TR' jungens puncta contactus fit
+ordinatim applicata axi secundo. · - . .
+Qoniam circulus contingens oppositas Hyperbola's- totus est mtm
+angulum contentum communibus contingentibus& patet curn effe
+totum extra utramque Hyperbolam. Q E. D. COR
+

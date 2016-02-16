@@ -1,0 +1,40 @@
+5 2 SeHionum Conicarum Lib. Ι .
+drato ex VX, differentia quadratorum ex ΟΡ ὅτ ΨΧ erit qua-
+dratum ex OR < per 5. 2-) ὅ( differentia quadratorum ex CO, CV
+
+est rectangulum VOL (per 6. 2.) Tum propter fimilia triangula “
+
+CVX‚ COP, erit quadratum ex ΟΡ ad quadratum ex VX, ut
+quadratum ex CO ad quadratum ex CV, ergo (dividendo) erit
+quadratum ex OR ad quadratum ex VX, ut rectangulum VOL
+ad quadratum CV, ergo (alternando) quadratum ex OR est ad
+tectangulum VOL, ut quadratum ex VX ad quadratum ex CV,
+hoc est, ut quadratum ex TX ad quadratum ex LV z ergo TX est
+aqualis diametro secundae ipsi LV conjugata: (per Definitionem 24.)
+ὅτ proinde ipsi TX parallelae. ’ ·
+
+Con. 1. Recta VN jungens vertices duarum diametrorum
+conjugatarum LV, MN, estuni asymptoto parallelri,⁷ & ab altera
+bitariam secta. Occurrat ‚enim asymptotos CG ipfi VN in r, &r
+fit altera asymptotos CH, per ,verticem V diametri VL ducatur
+recta Hyperbolam contingens, &occurrens asymptotis· in punctis
+T, X; erit (Cor. 27. huj.) VT parallela ipfi CN,- et erit eidem
+
+aequalis (per hanc Prop.) ergo (33. 1.) rectae VN, TC sunt paral..
+
+lelae et aequales. Qioniam vero XV est dimidium ipfius XT,
+erit Vr (2. 6.) dimidium ipsius TC five VN, ergo VN bifariam
+secatur in puncto r; et proinde constat corollarium. , i , ’
+
+Con. ΙΙ, Hinc, Hyperbolfi politione data, facile inveniuntur
+ejus asymptoti; inveniantur enim (per Cor. 7. Prop. 25.) diameter
+quaevis transversa LV ct centrum C; et (per Prop. 28.) ducatur
+’ Ro ordinatim applicata diametro. LVet (per Def. ²⁰24) inveniatur
+diameter. secunda MN ipfi LV conjugata,jungantur V, N vertices
+diametrorum conjugatarum et a centro ducatur recta CG *bifa-
+riam secans ipsam VN, et‘recta CH ipfi VN parallela, emm rectae
+
+acG, CH asymptotiz ut patet.
+
+‘2pRon
+

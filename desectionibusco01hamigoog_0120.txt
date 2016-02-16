@@ -1,0 +1,43 @@
+92 SeHionum Conicarum- Lib. 11.
+
+axem MN, eodem modo ostendetur semidiametrum CF, majorem
+
+csse ipsa CM.
+Pars. 2. A vertice diametri CF Hyperbolae‚ ducatur ad axem
+
+transversum AB recta FE ei ordinatim applicata; ὅτ propter
+angulum FEC rectum, erit semiaxis CB minor ipsa CF ; ac
+similiter erit semiaxis secundus CM, minor quavis alia semidia-
+metro secund-a, nam CM est axis transversus Hyperbolae ipfi FB
+
+conj ugatae.
+
+Fre. 6.
+
+Coa. Ι. Manifestum est, quod quo remotior quaevis diameter
+Hyperbolae fit ab axe, eb major erit.
+Coa. 11. Diameter CF Ellipseos axi majori propior, major est
+diametro CP remotiore. Si enim CF, CP aequales essent, diameter
+bifariam secansjungentem FP, ipsam ad angulos rectos secaret, δι’
+proinde effet axiS‚ contra praecedentern; ὅτ ss CF minor esset ipsa
+CP, circulus centro C, δε intervallo CF descriptus secaret ipsam CP
+intra Ellipfim, sed occurret axi minori extra Ellipfim‚ ergo occurret
+Ellipfi alicubi inter F, ὅτ Μ, puta in Qtum essent CF, CQaequales
+ὅτ diameter bisecansjungentem FQ effet axiS, ut prius (contra
+praec.) unde constat corollarium.
+Con. 111. Hinc manifestum est, quod duae diametri Ellipseos
+aut Hyperbolae‚ quae ab eodem-axe aequaliter-distant, sunt aequales‚
+δε contra.
+pm, 3, Con. 1-V. Axes-Hyperbdae AB, ΜΝ, ‘bifariam secant anguloS‚
+qui asymptotis CY, CZ comprehenduntur. Ducatur enim per
+ι verticem axis AB, recta alteri axj paranda, haec continget Hy-
+perbolam 3 occurrat vero asymptotis in punctis R, S, erunt
+RB, BS, aequales (36. lib. 1.) ὅτ cum anguli a‘d B 'sunt recti,
+triangula RBC, .SBC erunt aequiangula, δε ergo anguli ad C sunt
+
+aequaleS.
+
+Pro. 7.
+
+DEFI-
+

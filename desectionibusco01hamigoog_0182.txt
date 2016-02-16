@@ -1,0 +1,36 @@
+1 46 SeHionum (Ionicarum Lib. IV.
+
+ὅτ 1B,IM aequaIeS, centrum circuii eirca triangulum MCB de
+scripti erit in punct013ergo erit IC aequalis ipfi 113, ὅτ proinde
+angulus ICB aequalis est angulo IBC, hoc est, angulo alterno
+
+ῗξῐ), aequales sunt igitur diametri ΕΙ), F G per Cor. 3. Prop. 8.
+1 2.
+
+Pars. 2. Si duae diametri conjugatae Ellipseos ED, FG sint
+inter se aequales, & a puncto B termino unius axis ducatur recta
+parallela alterutri conjugatarum, -puta-ED, transibit per terminum
+alterius axis. Nam occurrat haec· recta Ellipfi iterum in M, δε
+diametro FG 1n 1, erit ΒΜ bifariam secta inl, (Cor. 27. lib. 1.)
+jungatur CM, ὅτ quoniam aequales sunt diametri ED, F G, erit·
+angulus ICB aequalis angulo BCD (Cor. 3. 8. lib. 2.) hoc est
+angulo alterno IBC, ὅτ proinde recta IC aequalis est ipsi ΙΒ, vel
+1M, ergo describi potest circulus centro 1 tranfiens per puncta
+B, C, M, erit igitur angulus MCB in semicirculo rectus; ergo
+
+cum AB fit axis, erit MCm alter axis: ergo aequales conjugatae
+ΕΙ), FG bifariam secant rectas jungentes vertices axium.
+
+QED.
+
+CoR. I. Hinc, patet effe tantum unum par diametrorum con-
+jugatarum Ellipseos inter se aequalium.
+
+. CoR. 11 Hinc etiam, fi a vertice unius axis M, ducantur ad
+vertices alterius axis rectae MA, ΜΒ, erit angulus qui iisdem
+
+comprehenditur aequalis angulo ECF ei opposito, qui compre-
+henditur diametris aequalibus conjugatis
+
+ 
+

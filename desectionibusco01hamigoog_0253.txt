@@ -1,0 +1,40 @@
+SeHionum Conicarum Lib. V. 2 o 5
+
+’9. lib. 3. Si vero diametri fibi invicem occurrant ut in puncto
+C, erit sectio Ellipfis aut Hyperbola quae describi potest per Cor.
+- 3. Prop. 10. lib. 4. nam datur centrum ejus C, δε positione datur
+diameter ΑΒ cui ordinatim applicantur parallelae KH, MN.
+
+'In hoc problemate ὅτ sequentibus cum sectio describenda dicitur
+Ellips1s‚ inter Ellipses numeratur circulus·
+
+PROP. XXII. PROBL. 11.
+
+sectionem conicam describere quae per tria puncta data
+transeat, ὅτ, duas rectas positione datas contingat.
+
+INT rectae AV, AB positione datae; ὅτ primo describenda Fxo. 35.
+fit sectio quae has rectas contingat in datis punctis B, V, δε
+transeat per tertium punctum datum intra angulum BAV.
+· Si rectae AB, AV, sint parallelae sectio describenda erit Ellipfis
+ejusque diameter erit juncta BV, cui ordinatim applicata erit recta
+ducta per tertium punctum datum ὅτ ipsis AB, AV parallela, ὅ(
+proinde sectio in hoc casu facile describitur, per Cor. Prop. 35.
+
+⁴ lib. 2.
+
+Cas. 1. Occurrant ver'o rectae AB, AV in A, bifariam secetur
+· juncta BV in P, δε ducatur PA erit haec diameter sectionis descri-
+bendae (26. lib. 1.) fit nunc tertium punctum datum O in recta PA ;
+fi ΡΟ, ΟΑ fint aequales, describatur Parabola < per 33. lib. 2.)
+¹cujus diameter est recta PA, verticem habens O δε cui ipsa BV fit
+*ordinatim applicata, rectae AB, AV hanc Parabolam contingent in
+B δι V‘ ut constat ex Prop. 47. lib. 1. Si vero punctum O s1t inter
+P J& A, et rectae ΡΟ, ΟΛ sint inaequaleS‚ producatur ipsarum minor
+ad C, ita ut CP, CO, CA fint proportionales et sumatur CQaequalis
+ipfi CO ς turn (per Cor. 35. lib. 2.) describatur Ellipfis aut Hyper.
+bola cujus diameter fit OQ, cui recta VB s1t ordinatim applicata, sec-
+’ tio rectas AB, AV continget·in punctis B, ὅτ V (ut constat ex Prop.
+
+48»
+

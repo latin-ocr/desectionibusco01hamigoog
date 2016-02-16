@@ -1,0 +1,50 @@
+Pig.
+
+¹3·
+¹4·
+
+1 5 6 Φ SeHionum (Ionicarum Lib. IV.
+
+et a puncto C aequaliter distant, quotlibet Ellipses aut Hyperbolze'
+describi possunt, quae Problemati satisfacient.
+
+Si vero hae rectae EF, ΡΝ aequaliter distant a puncto C, cum
+sunt inaequaleS, vel inaequaliter distant ab eodem puncto, cum sunt
+aequales, Problema est impoffibile. Si recta minor EF longius
+distat a puncto C quam recta major ΡΝ, sectio describenda erit
+Enipfis, fi vero contrarium eveniat, describendae sunt sectiones
+oppofitae; ὅτ cum in utroque casu patet sectiones describendas
+necessario tranfire per sex puncta data ex conditionibus Proble-
+matis; manifestum est, quod unica Ellipfis describi potest, vel
+
+Ι duae tantum Hyperbolae oppofitae, quae Problemati satisfacient
+
+quia duae sectiones conicae vel sectiones oppofitae per Cor. 3. 56.
+
+lib. 1. fibi invicem occurrere nequeunt in quinque punctis multo
+minus in sex.
+
+‚Haec Propositio ejusque corollaria ut et Propp. 14. 15: hujus
+desumuntur ex opera illust. Marchzbmzr de l' ffispital. · ’
+
+PROP. XI.
+
+Ellipfi aut Hyperbolis oppofitis politione datis inscribatur
+parallelogrammum KLNO‚ fi diameter AB bifariam secans
+latera ejus oppofita in R δε S punctis, semper datamxhabeat
+rationem ad ipfius segmentum RS inter ista latera 3 erit
+⁴parallelogrammum‘KLNO semper ejusdem magnitudinis.·
+
+·SIT C centrum sectioniS‚ erunt CR, CS aequales ut patet,'
+‘ducatur ‘diameter Mm parallela lateribus LN, ΚΟ, erit conju-
+
+gata ipsi AB ; circa has conjugatas describatur parallelogrammum,
+erit aequiangulum parallelogrammo KLNO, et proinde haec pa-
+rallelogramma sunt inter se in ratione compofita ex rationibus
+
+laterum; per hypothesin ratio ipsius AB ad RS five KL datur,
+ergo datur ratio quadrati ex CB (ad quadratum ex CR, δε igitur)
+
+ad rectangulum ARB (differentiam seiz. inter quadrata ex CB
+et
+

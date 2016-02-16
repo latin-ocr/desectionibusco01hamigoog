@@ -1,0 +1,37 @@
+1 9 o Sestionum Conicarum Lib. V.
+
+P R O P. XIV.
+
+P10· 2¹· Si duo circuli contingant Ellipfim aut Hyperbolam in eodem'
+²²‘ puncto T &c iterum contingant eandem Ellipfirn vel op-
+pofitas Hyperbolas in punctis R, N 3 rectangulum conten-
+· ‘ tum diametris circulorum crit aequale quadrato quod fit ex
+diametro sectionis quae est conjugata diametro per T punc-
+'tum contactus transeunti. Et fi circulus contingat parabolam
+in duobus punctiS, quadratum ex ejus diametro erit aequale
+rectangulo contento parametro axis fic paramctro diametri
+
+per punctum contactus transeuntis· ’
+
+Pars 1. INT Ellipseos aut Hyperbolarum axes AB, Mm δε
+centrum· C, rectae TR, TN jungentes puncta contac-
+tus erunt axibus perpendiculares per part 1. Prop. praec. 'per punc*
+tum T in quo uterque circulus sectionem contingit ducatur commu·
+nis contingens axibus occurrens in punctis G, S, ὅτ ad punctum Τ
+erigatur huic contingenti perpendicularis axibus occurrens in Ρ, Q
+erunt puncta P, Q centra circulorum (per 1. ὅτ 19. 3.) ὅτ quoniam
+diametri sectionis per contactus transeuntes sunt inter se “ aequales,
+erunt ipsarum conjugatae inter se aequales ut constat ex Prop. 3. δε
+4. lib. 4 Sit FD diameter sectionis conjugata ei quae per con-
+tactum T transst. Quoniam rectangula triangula TQG, TSP
+sunt aequiangulau erit 'QT ad GT, ut TS ad TP, ideoque rec·
+tangulum QTP est aequale rectangulo GTS, hoc est, quadrato
+ex CD per ‚Prop. 51. lib. 1. unde liquet pars prima proposi·
+tionis,
+Pars 2. Contingat circulus HE Parabolam in punctis T, R
+erit juncta TR axi Parabolae perpendicularis ut prius, ideoque
+parametri diametrorum quae per puncta contactus transeunt
+
+erunt inter se aequales (Cor. 3. 25. lib. 2.) per contactum T ducatlpii·⁸
+commu
+

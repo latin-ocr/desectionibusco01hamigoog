@@ -1,0 +1,40 @@
+SeHionum Cantharam Lib. V. 2 o 1
+
+D ducatur recta Parabolam contingens axi occurrens in S, haec
+quoque utrosque circulos continget; erigatur igitur a puncto D per- -
+pendicularis ipfi DS, axi occurrens in X, erit XD radius circuli con-
+tingentis Parabolam in D ὅτ F, ὅτ segmentum DM diametri DG
+a circulo curvaturae absciffum, aequale erit parametro istius diametri;
+fi igitur a centro hujusce circuli dimittatur perpendicularis NP
+ad ipsam DM‚ erit ΡΙ) dimidium ipfius DM et proinde aequalis
+ipfi SX ὅτ erit EX dimidium parametri axis (Prop. 2 5. lib. 2.) sed.
+EX est ad XD, ut XD ad XS, ὅτ ut XD ad XS, ita (ob similia
+triangula DXS‚ PDN) est ΡΙ) five XS ad ND, igitur totae rectae seiz.
+parameter axis Parabolae, diameter circuli DBF, parameter diame-
+tri DG, ὅτ Do diameter circuli curvaturae erunt continue propor-
+tionales.
+
+P R O P. XVIII.
+
+Si circulus DMo contingens Ellipfim aut Hyperbolam in 1²10. 29.
+
+puncto D, eandem habeat curvaturam cum sectione in·
+isto uncto; erit semidiameter ejus ND, ad sectionis
+sem-igametrum CQconjugatam ei quae per punctum D
+transit, ut quadratum ex eadem CQ ad rectangulum
+ACZ contentum semiaxibus„
+
+1 circulus sectionem in vertice axis contingat, ejus diameter erit
+ejusdem axis parametcr per Prop. 16. hujus, crgo in hoc casu
+manifesto constat propofitum.
+
+Si vero circulus DMO sectionem contingat in *puncto D non
+vertice axis ς per punctum D ducatur communis contingens
+DS, in hanc a centro sectionis dimittatur perpendiculari& Ca; fit
+DM segmentum diametri CD a circulo DMO absciss‘um, ὅτ in ipsam
+a centro istiuscirculi dimittatur perpendicularis NP, erit PD dimi-
+dium parametri diametri CD; est igitur rectangulum PDC aequale
+quadrato ex semidiametro CQ ipfi CD conjugata, propter vero
+
+C c triangula
+

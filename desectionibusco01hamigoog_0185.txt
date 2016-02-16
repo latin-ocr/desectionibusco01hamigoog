@@ -1,0 +1,42 @@
+De E lltpfi &³ &perhola . 1 49
+
+PROP. VIII. PROBL 1.
+
+Datis positione δε magnitudine duabus 'diametris conjugatis
+Ellipseos aut Hyperbolae3 invenire duas alias conjugatas
+quae datos angulos comprehendant.
+
+Ι Si anguli dati-sint recti, diametri inveniendae stmt axes, &²
+Problema solutum qli Propofitione 7. lib. 2.-
+
+Cqfi 1. UANDO diametri datae sunt axeS, fit AB axis major, Fre. 7.
+’ et Mm axis minor Ellipseos aut Hyperbolae, et sint ὃ·
+
+dati anguli VZX, VZY; circa axem majorem AB describatur cir·
+
+culus ¹AFBG, cujus segmenta AFB, AGB capiant angulos aequales
+
+,angulis datis VZX, VZY, fit FG diameter hujusce circuli cum axe
+Mm coincidens, et centrum ejus P. ⁴
+
+Si angulus' obtusus' datus VZX fit aequalis angulo qui comprehen-
+diturjunctis AM, ΒΜ, ἰη“Ε11ἰΡ1ῑ; circuli segmentum AFB occurret
+axi Mm in vertice ejus M, in quo casu diametri quaefitae erunt
+diametri aequalesconjugatae per·¹ Cor. ’ 2. Prop. 5. et fi angulus
+‘datus VZX major fuerit angulo ΑΜΒ, Problema erit impossibile
+per praecedentem. Si vero angulus datus VZX minor fit ipso
+ΑΜΒ, circuli segmentum AFB occurret axi Mm producto in F ;
+.tum a puncto F ducatur recta ipfi ΜΒ parallela‚ occurret circulo
+alicubi inter ,F . et B, puta-in S, ducatur a puncto S recta ipsi BC
+parallela, occurret ipsi CM in O quod erit inter F et centrum
+Ellipseos C 3 quoniam (propter circulum) erunt GO,' OS, ΟΕ· pro-
+
+· portionale3‚ erit GO ad OF, ut quadratum ex OS ad quadratum
+
+ex OF, hoc est (ob fim.·trian. OSF, CBM) ut quadratum ex CB
+,ad quadratum ex CM; similiter in Hyperbola sumatur punctum Ο
+in diametro FG producta ita ut GO fit ad FO, ut quadratum ex
+CB ad quadratum ex CM, et in utraque sectione describatur
+
+circulus,
+

@@ -1,0 +1,43 @@
+118 SeHionum Conicarum Lib. ΙΙ.
+
+satisfacient ; una vero-tantum, fi circulijam descripti in unico puncto
+occurrant 3 - fi vero ⁴hi circuli non⁴ fibi invicem occurrant, Problema
+in istoeasuest impossibile„ , Α
+
+PROP. XXXIV. PROBL. IV.
+
+Datis positione δε magnitudine duabus rectis se invicem bi-
+fariam secantibus, Ellipfim describere in qua datae rectae
+fint diametri conjugatae.
+
+Fi ¹·g 25 RIMUM, fint ΑΒ, MN datae rectae se invicem adangulos
+rectos bifariam secantes in C, δε quoniam in hoc casu op-
+
+portet rectas AB, MN effe inaequales < per Cor. 2. 31. lib. 1.)
+describatur circuluS, centro M termino minoris rectae MN et inter-
+
+vallo CA dimidio majoris AB, secans ipsam AB m punctis F et O,
+
+ὅτ ιη ipsis F et O figantur extremitates fili ejusdem longitudinis cum
+recta ΑΒ, ἐἰ Ope Pfdxsssl 1? ιω :raam filum et circumducatur paxillus
+
+P donec ad eum locum redeat a quo eoepit moveri; linea motu ejus
+descripta erit Ellipfis in qua rectae AB, MN sunt diametri eon-
+u atae.
+j gTranseat enim Ellipfis per puncta A, M, B, N, In qua rectae
+AB, ΜΝ sunt diametri conJugatae (per Prop. 34. lib. 1. ) et quoniam
+hae diametri conjugatae se invicem secant ad angulos rectos, erit
+ipsarum maior AB axis transversus et minor MN axis secundus
+EllipseOS, ·‘ et erunt F et O ipsius foci, per constructionem et Cor.r
+ad Def. 5. ·,
+
+Quoniam igitur summa rectarum, quae a paxillo P ad focos
+ducuntur, s1t semper aequalis ipsi AB,paxi11um P dum circumdu
+citur, erit m Ellipfi, per Cor. 2. 14. hujus, et proinde ipsam motu suo
+
+describet.
+Secundo, da'tae sint duae rectae se invicem, non ad angulos rectos,
+
+, bifariam secantes, Manifestum est duas Ellipses non habere posse
+idem centrum et duas diametros conjugatas politione et magtgmtug
+

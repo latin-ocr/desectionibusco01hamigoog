@@ -1,0 +1,47 @@
+Seffzbnum Conicarum Lib. II . , 8 9
+
+similiter posita ipfi AH quae continetur diametro AB ejusque .
+
+Parametro BH. Propter hunc excessum, Apollonius hanc lineam
+Hyperbolum nominavit.
+
+. PROP. VI. PROBL. 1.
+
+Data positione Parabola, invenire axem ejus; δε unicum effe
+axem ostendere.
+
+IT Parabola FBL, inveniatur quaevis diameter VO, & per F10.4.
+
+punctum X infra verticem ejus ducatur recta ipsi VO perpen-
+diculariS‚ ὅτ Parabolae occurrens in F, L, s1 recta FL bifariam
+
+secetur in X erit diameter VO axis per definitionem 22. lib. ι.
+Sed fi non, ducatur alia diameter AB bifariam secans ipsam FL in
+E, erit haec diameter axiS, quia ordinatam FL secat ad angulos rectori,
+nam AB est parallela ipsi VO.
+
+Si vero duae diametri effent axeS, recta Parabolft terminata
+ὅτ utrique perpendicularis, esset utrique ordinatim applicata,
+quod est absurdum: ergo est unus axis tantum cujusvis Para-
+
+bolae. Q E. D.
+
+PROP. VII. PROBL. ΙΙ.
+
+Datis positione ὅτ, magnitudine duabus diametris conjugatis
+
+Ellipseos aut Hyperbolae 3 axes invenire, & duos tantum effe
+axes in utraque sectione ostendere. ’ ¹
+
+INT rectae FL, GH, non fibi invicem perpendiculares, ΡΜ· 5.
+
+diametri conjugatae Ellipseos aut Hyperbolae, ὅτ centrum C3 ‘³'
+
+per F verticem diametri, quae in Hyperbola est transversa, ducatur
+recta FV ipfi GH parallela, ὅτ ab eodem F sumatur in diametro
+
+FL segmentum FK (versus centrum in Hyperbola, ad partes autem
+contrarias in Ellipfi) ita ut rectangulum CF K fit aequale quadrato
+ex CG, & bifariam secta CK in Pffilucatur PQ ipfi KC pegpfgcilsi-
+’ ²
+

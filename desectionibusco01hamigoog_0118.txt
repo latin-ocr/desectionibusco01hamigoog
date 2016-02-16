@@ -1,0 +1,43 @@
+90 Seffz'ionum Conicarum Lib. II.
+
+cularis, occurrens rectae FV in Q tum centro Qdescribatur cir-
+culus transiens per C & K, & occurrens rectae FV in D, Ο punctis->3
+
+eruntjunctae CD, CO axes.
+Nam per Cor. 27. lib. 1. recta FV continget sectionem cujus
+
+diametri conjugatae sunt FL, GH, & propter circulum, rectangu-
+lum DF O est aequale rectangulo CFK, hoc est, quadrato ex semi-
+diametro CG (per constructionem) ergo CD, CO sunt diametri>
+conjugatae (Cor. 51. lib. 1.) &c sc invicem ad angulos rectos secant,
+ob angulum DCO in semicirculo rectum, δι proinde sunt axes
+(Def. 22. lib. 1.) nam ordinatas suas 'ad angulos rectos secant:
+vertices axium hoc modo inveniuntur, a puncto F ducatur recta
+FE ad unum axem CD, & alteri parallela, δι sint CD, CB, CE
+proportionales ὅτ sumatur CA aequalis ipfi CB, erunt B & A vertices
+axis CD per 48, 49. lib. 1. eodem modo inveniuntur M, N vertices
+
+alterius axis. Q E. I.
+Hisce manentibuS, s1 duae aliae diametri conjugatae CX, CV
+
+essent axes: occurrant hae contingenti FD, in X, V punctis; erit
+rectangulum XFV aequa-le quadrato ex CG (51. lib. 1.) hoc est,
+rectangulo CFK: ergo circulus descriptus per puncta C, K ὅτ Χ
+transibit etiam per V, ὅτ propter angulum XCV (per Hypothefin)
+rectum, erit centrum hujusce circuli« in recta F XV, δε propte:
+rectam PQperpendiculariter bisecantem ipsam CK, erit centrum
+in ipsa PQ ergo est in puncto Q hoc est, in centro circuli per
+puncta C, K, D, transeuntis ς ergo duo circuli se invicem secantes
+in punctis C, K, idem habent centrum, quod est absurdum: ergo
+duo tantum sunt axes in utraque sectione. Q Ε, D,
+
+Si in Hyperbola diametri. FL, GH, essent aequale83 punctum
+K coincideret cum puncto C, & circulus centro Qdescriptus con..
+tingeret ipsam FL in C, ὅτ demonstratio in hoc casu eadem est, ac
+in praecedente, legendo quadratum ex FC pro rectangulo CF K,
+
+Si datae diametri conjugatae smt fibi invicem perpendiculares,
+ipsae erunt ωερε, ut patet.
+
+Com
+

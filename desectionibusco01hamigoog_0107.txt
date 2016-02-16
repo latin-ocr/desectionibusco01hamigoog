@@ -1,0 +1,23 @@
+SeHionum Conicarum Lib. II . 8 1
+
+triangulo ELF, datus est ex Hypothefi angulus LFE, et est an-
+gulus ELF aequalis angulo dato CBA, specie dabitur triangulum
+ELF (per 40. Dat. Euclidis) ergo datur ratio FE ad EL; eodem-
+que modo in triangulo EMH, dabitur ratio EH, ad EM; quare
+datur ratio ex hisce compofita, hoc est (per 23. 6.) ratio rectan-
+guli F EH ad rectangulum LEM.
+
+Eodem modo ostendetur rationem rectanguli OEN ad rectan-
+gulurn GEK, datam esse, Sed datur ratio rectanguli LEM ad
+rectangulum OEN (per Cor. 1.) erge, quoniam ostensum est
+datam effe rationem rectanguli FEH ad ipsum Lm, et ra-
+tionem ipfius LEM ad OEN, ipsiusque OEN ad rectangulum
+GEK·‚ dabitur (per 8. Dat. Euclidis) ratio rectanguli FEH, ad
+
+rectangulurn GEK.
+In propofitione et hocce Corollario fufius demonstrantur ornnes
+
+casus Lemmatis 17. lib. 1. Phil. Nat. Ptine. Math.
+
+L SECT·1-
+

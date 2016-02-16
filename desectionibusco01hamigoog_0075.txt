@@ -1,0 +1,39 @@
+SeHionum Conicamm Lib. I. 5 1
+
+Ducantur enim per puncta P, X duae rectae in plano contin-
+gente ADGC inter se parallelae, δε occurrentes lateri coni dAD
+in punctis K, Y, contingent superficiem conicarn in istis punem,
+ὅτ erunt inter se aequales, propter parallelas XP, YK (Cor. 1.
+Def 24.) quoniam igitur reeta PRS secat ὅτ recta PK contingit
+superficiem conieam ὅτ hae rectae sunt parallelae duabus rectis
+XV, ΧΥ contingentibus eandem superficiem ε, erit (per Prop. 1 1 .)
+rectangulum RPS ad quadratum ex PK, ut quadratum ex VX
+ad quadratum ex XY: sed quadrata ex PK, XY sunt aequalia, ergo
+rectangulum RPS aequale est quadrato ex VX (14. 5.) Q E. D.
+
+CoR. Hinc fi per punctum R in Hyperbola‚ ducatur recta
+occurrens ejus asymptotis in P,quncti5‚ ἃ eidem Hyperbolae
+iterum in S 3 erit rectangulum PRQ aequale quadrato ex segmen-
+to contingentis VX, ipsi PQparallelae‚ interjecto inter contactum
+δέ asymptoton. Nam propter aequales RP, SQ aequales sunt PS,
+RQergo erit rectangulum PRQaequale rectangulo RPS, hoc est
+quadrato ex VX per hanc Prop.
+
+P R O P. XXXVIII. 1
+
+Qaevis recta asymptotis intercepta δε Hyperbolam contin-
+gens-5 aequalis est diametro secundae quae est ipfi paral·-
+lela.
+
+O N TI N G A T recta Hyperbolam in puncto V, ἃ occurrat Fm. 32, '2
+
+, ejus asymptotis in T, X punctis ; erit recta ΤΧ aequalis dia-
+metro seeundae MN ipfi ΤΧ parallelae.
+
+Ducatur enim per contactum diameter transversa LVO‚ &s per
+punctum in ea O, ducatur recta SR ei ordinatim applicata, erit
+haec parallelo. contingenti VX3 producatur ipsa SR utrinque ut
+occurrat asymptotis in punctis Q P3 aequales erunt OQ OP;
+δε quoniam per Cor. praee. reetangulum PRQaequale est qua-
+G 2 drato
+

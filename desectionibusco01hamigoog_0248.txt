@@ -1,0 +1,38 @@
+2 o 2 SeHionum Conicarum Lib„ V .
+
+triangula NDP, DCc‘z fimilia, erit ND ad CD, ut PD ad Ca, est
+igitur rectangulum NDin Ca aequale (rectangulo PDC hoc est)
+quadrato ex CQ est autem ND ad CQut (rectangulum ND in ’
+Ca hoc est) quadratum ex CQ ad rectangulum CQin Ca, sed
+rectangulum CQin Ca est aequale rectangulo ΑΕΖ contento se*
+miaxibus (ι. lib. 4.) ideoque ND semidiameter circuli DMO 'est
+ad semidiametrum CQ, ut quadratum ex ipsa CQ ad rectangulum
+⁰ACZ contentum semiaxibuS. Q E. D.
+
+CoR. Qoniam in demonstratione hujus Prop. ostenditur rectan-
+gulum ND in Ca aequale effe quadrato ex CQ constat quod ND
+radius circuli curvaturae, CQsemidiameter sectionis communi con-
+tingenti DS pai-anelat, ὅτ Ca perpendicularis a centro sectionis in
+hanc contingentem dimiss‘a, sunt continue proportionales,
+
+p R ΟΡ. ΧΙΧ.
+
+Fxo. 32· Si recta secans sectionem conicam in duobus punctis D, F,
+occurrat duabus contingentibus AB, AC in punctis E,
+
+G δε jungenti contactus BC 1n H; erit rectangulum DEF
+ad rectangulum FGD, ut quadratum ex ΕΗ ad quadra-
+
+tum ex GH.
+
+E R punctum E, in quo secans uni contingentium ΑΒ occurrit,
+ducatur recta alteri contingenti AC parallela‚ occurrens rectae
+jungenti contactus in M, ὅτ ducatur r'ecta ipfi DF parallela contin·
+gens sectionem in L ὅτ occurrens contingenti AC in K, per Cor.
+Prop. 53. lib. 1. est rectangulum DEF ad quadratum ex EM, ut
+
+quadratum ex KL ad quadratum ex KC, hoc est, u‘t rectangulum
+FGDad quadratum ex GC per Prop. 18. lib. 1. ergo, alternando,
+
+erit rectangulurn DEF ad rectangulum F GD ut quadratum Egit<
+

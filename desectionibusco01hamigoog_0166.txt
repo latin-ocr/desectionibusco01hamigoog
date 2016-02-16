@@ -1,0 +1,50 @@
+1 32 Seffz‘ionum Conicarum Lib. III .
+
+SCHOLIUM.
+
+· S I 'duae rectae thdffinitae DE, CM stb1 titvteem in dato an'gulo occur-
+
+rant in puncto H, ἐξ circa punctum quodvis F revolvatur recta indefi-
+nita occurrens rectis DE, CM in L, N punctis, &³ in recta= revolvente su·
+matur punctum Ο ad easdem partes puncti F ad quas eli Ν (occursus recte
+mobilis cum recta DE) ita ut FO, FL, FN stnt continuae proportionales.
+Locus omnium punctorum O, erit Parabola tratfiens per F &³ H punc-
+ta, δέ* in qua recta CM erit diameter δέ* recta DE erit parallela ordinatim
+
+applicatis de'am‘etro quae per punctum F trorfit. Si vero in hac recta
+revolvente sumqretur FO media proporttonalis mter ipsas Fz, FN linea motu
+
+puncti O descripta fft Hyperbola. Vide Schol. post Prop. 46. lib. 1 .
+
+Ἢ
+
+6.
+
+7.
+
+PROP. VI.
+
+Si tres rectae parabolam contingentes inter se conveniant3
+in eadem ratione secabuntur, seiz. inter ipsarum occur·-
+
+sus & puncta contactus.
+
+SIT ABC Parabola, quam rectae AD, FE, DC contingunt in
+
+punctis A, B, C, erit ut AF ad F D, ita FB ad BE, et DE ad
+EC. Sit enim B p'unctum contactus pofitum in segmento Parabolae
+inter reliqua puncta A et C; jungatur AC et bifariam dividatur
+in G, diameter per G ducta tranfibit per occursum contingentium
+
+AD, CD, Cor. 1. 26. lib. 1.
+
+’ Cas. t. Si diameter DG 'transeat per B, erit contingens FBE
+parallela ipsi AC et ergo in puncto B bifariam secabitur, et quo-
+niam GB, BD sunt aequaleS, contingentes AD, CD bifariam seca-
+
+buntur in F et E, ob AC, FE parallelas,
+qu. 2. Si vero diameter DG non transeat per B; junctis
+AB, BC, ducantur per puncta F, B, E diametri FHL‚ BN et
+EKM·, et (per Cor. 1. 26. lib. 1.) aequales erunt AH,HB et pro·
+inde·
+

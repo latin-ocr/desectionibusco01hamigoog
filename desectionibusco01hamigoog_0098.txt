@@ -1,0 +1,38 @@
+(Fre. 46.
+
+·7.„2 -Seffliwum ’ Conicarum Lib. I.
+quaevis‘re'ct'a* secans sectionem‚'= vel oppositas sectiones in punctis
+R, Q; 'rectang‘ulum RPQ& quadratum ex recta PL, erunt inter
+se, ut quadrata ex segmentis contingentium, 2quae sunt ipsis PRQ
+PL parallelae, interceptis inter earum occur-sum ὅτ contactus, -vel
+ut quadrata ex semidiametris quae sunt ipfis PRQ PL parallelae.
+
+Nam a puncto D in contingente AC ducantur duae rectae ipfis
+PRQ PL parallelae, secantes sectionem vel oppositas sectiones in
+punctis O, N, ὅτ. Ε, F, ὅτ occurrat recta DEF,-ips1 PL parallela, ·
+jungenti contactus in G quoniam igitur contingens AC occurrit
+duabus parallelis secantibus, erit (per Cor. 4. 18.}1uj.) rectangulum
+RPQ ad rectangulum ODN, ut quadratum ex PC ad quadratum
+cx DC, hoc est (ob similia triangula) ut quadratum ex PL ad qua-
+dratum ex DG five rectangulum EDF (per hanc Prop.) ergo alter-
+nand0, rectangulum RPQest ad quadratum ex PL, ut rectangulum
+·ODN ad rectangulumEDF, hocest per 18. hujus, ut quadrata ex
+segmentis contingentium, quae sunt ipfis PRQ PL parallelae, inter-
+ceptis inter earum occursum ὅτ contactus.; vel ut quadrata ex
+semidiametris Ellipseos aut Hyperbolae quae sunt ipsis PRQ PL
+parallelae, per 31, & 40. hujus,
+
+” LEMMA II.
+
+Puncto Ε ιιι recta quavis indefinita sumantur rectae EA, ED
+ad easdem partes puncti E, & ab eodem puncto E sumatur
+recta ΕΒ cujus terminus B fit vel inter A δε D vel ad alteras
+partes puncti Ε, fi quadratum ex AB fit ad quadratum ex DB,
+.ut ipsa ΑΕ ad DE·,· erit rectaEB media proportionalis inter ipsas
+Nam fi non, a puncto E sumatur versus Β recta EF, major vel
+¹rriinor ips ι ΕΒ, quae1 fit media proportionalis inter ΑΕ ὅτ DE,
+*quoniam igitur proportionales sunt ΑΕ, F E DE, erit (convertendo
+·& alternando) ut :prima ΑΕ ad secundam FE, ita AF summa vel
+:differentia primae5&2sec‘undae, ad DF summam vel⁸ differentiam
+secundae
+

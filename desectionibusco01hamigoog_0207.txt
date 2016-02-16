@@ -1,0 +1,40 @@
+Scaienum Cantharam zaib- V. 1 67
+
+AM, am, et altera eas bifariam secat, hae rectae erunt asymptoti
+
+maiusque Hyperbolae per Cor. 3. 38. lib. 1. unde constat co-
+ro arium.
+
+PROP. Π.
+
+Sint duae Parabolae EAD‚ ead quarum axes AB, aB coin- F10.3·
+cidunt ὅτ, eandem habent parametrum3 dico quod duae
+qumvis diametri MN, mN coincidentes aequales habebunt
+parametros: &c cum suis ordinatis aequales angulos com-
+prehendent.
+
+Pars ι. - IN T enim puncta F, s foci Parabolarum, et quoniam
+
+ἢ aequaliter distant a verticibus axium, per hypoth. et .
+Def. foci, erit Ff distantia inter focos aequalis ipsi Aa distantiae
+inter vertices axium, hoc est, ipsi Mm distantiae inter vertices
+diametrorum MN, ΜΝ per Cor. Prop. ιε). lib. 3. ergo rectae MF, ngf,
+erunt sibi invicem parallelae et aequales (3w 3. 1.) et proinde diametri
+coincidentes·MN, mN aequales habent parametros‚ Cor. 1. Prop.
+25. lib.· 2.
+
+Pars 2. producatur diameter MN ultra verticem ad K, et
+propter parallelas MF, ηυξ erunt anguli KMF, Kmf aequales,
+ideoque rectae ML, mO hos angulos bifariam secantes erunt pa-
+rallelae (29. 1.) sed Parabolas contingent (per Prop. 15· lib. 2.)
+ergo diametri coincidentes MN, mN aequales angulos cum con-
+tingentibus ML, mO et proinde cum ordinatis suis comprehen-
+dunt. Q E. D.
+
+Ut circuli solummodo in. magnitudine diametrorum differunt,
+Α xfic ὅτ Parabolae differunt solummodo in magnitudine parametro-
+rum principalium ὅτ proinde omnes Parabolae ficut omnes circuli
+dicendae sunt fimiles.
+
+CoR. I.
+

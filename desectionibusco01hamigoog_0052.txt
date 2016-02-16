@@ -1,0 +1,40 @@
+3 2 Se57ionum Conicarum Lib. Ι.
+
+Nam occurrat ipsa AG contingentibus in Q, R punctis ;j tum
+(propter parallelogrammum LVQ) erunt contingentes VQ, LR·
+aequale5‚ ergo aequales sunt rect'ae AQRG, (per Prop. 2ο.)ἶ ὅτ prop-
+ter VC, CL aequales & rectam CD ipsis VQLR parandam,
+crunt Q>‚DR ,aequale33 ergo aequales sunt ipsae AD, BG, ergo
+AG bifariam secatur diametro secunda MN.
+
+Pars 2. Et (iisdem manentibus)s1 recta AG bifariam secetur di·-
+ametro MN, eritparallela diametro LV, jungenti contactus con-
+tingentium VX, LF quae ipsi MN sunt parallelae3 nam propter
+VC, CL aequale5‚ & rectas VQCD‚ LR parallela5‚ erunt Q), DR
+aequales, sed per hypothefin AD, DG sunt aequales; ergo
+aequales sunt rectae AQRG ὅτ ergo aequalia sunt rectangula AQG,
+
+ARG‚ sed haec rectangula sunt ut quadrata contingentiumanLR·
+(per Cor. 2. 'Prop. 18.) ergo haec quadrata ὅτ proinde ipsae rectae
+
+VQLR aequantur; ergo (33. 1.) rectae AQRG & LV sunt
+parallelae. Q E. D.
+
+Corollaria ad duas Propofitimes praecedentes. Ι
+
+Con. 1. Omnis recta sectione conica terminata, ὅτ a diametro bifa-
+riam secta, est parallela contingenti per verticem istius diametri duc-
+tae <modo cum sectio sit- Elli-pfis ipsa rectas bifariamsecta, 'non fit
+diameter.) Nam fi non' effet'parallela huic contingenti‚‘ sit (per
+Prop. 17.) parallela contingenti ductae per verticem alterius di·-
+ametri; tum per Prop. 24. ab hac altera diametro bifariampquo·
+que secaretur: quod est absurdum.
+
+Con. 11. Omnes rcctae ordinatim applicatae cidem diametro}
+sectionisconicae sunt inter sc parallelae. Nam cum applicantur di-
+ametro parabolae, Ellipseos‚ aut diametro transversae ‘Hyperbolae
+omnes erunt parallclae contingentiper verticem istius diametri ductae.
+
+(per Cor. praec.) ὅτ curn applicantur diametro secundae Hylrgir-
+ae
+

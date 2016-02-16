@@ -1,0 +1,37 @@
+’ 'De Parabola.1 3 9
+
+erit triangulum BAC aequale parallelogrammo BXTC, est autern
+segmentum Parabolicum BOQC duplum· areae BACO, ‘fi enim ,rex-
+cederet duplum istius areae, quovis spatio S, tum per partem pri-
+marn praecedentis, segmento BOQ: inscribi potest figura quae de-
+ficiat ab hoc segmento spatio ipso S minore, ergo erit haecce fi-
+gura major quam duplum areae BACO contra Cor.1'. Prop 1 1.
+ergo segmentum BOQ non excedit duplum areae BAco Nec
+vero a duplo hujusce areae deficiet, fi enim area BACO dimidium
+
+segmenti BOQC excederet, spatio quovis S, tum per partem 2. Prop ·
+praec. circumscribi potest huic segmento figura, quae auferat ab
+area BACO spatium quod fit minus spatio S 3 ergo area extra hanc
+figuram ὅτ intra triangulum BAC excederet dimidium segmenti
+Boog contra Cor. 2. Prop. 1 1. cum igitur segmentum BOQ
+nec excedit duplum areae BACO, nec ab eo deficit, erit duplum
+
+istius areae et proinde est ad totum triangulum BAC, hoc est,
+ad parallelogrammum BXTC, ut 2. ad 3. 9, E. D.
+
+Con. 1. Duo segmenta LDP‚ AKE ejusdem Parabolae sunt in· 1³10. 12,
+ter se in Sesquaeplxkata ratione absciss'arurn DM, KT diametrorum,
+quae rectas LP, ΑΕ bisecant. Ducantur enim a punctis L & A
+in Parabola rectae LR, AH perpendiculares ad diametros DM,
+KT, erunt hae altitudines parallelogrammorum LNDM, ABKT,
+ergo LNDM est ad ABKT in ratione composita ex ratione ipfius
+ΒΜ ad KT ὅτ LR ad HA, sed quadratum ex LR est ad quadra-
+tum ex HA, ut DM ad KT (per Cor. 1. 3. huj.) est igitur LR
+ad HA in Subduplicata ratione ipsius DM ad KT, & proinde
+LNDM ὅτ ΑΒΚΤ sunt in Sesqmplicata ratione ipsarum DM δι’, ΚΤ,
+ergo tota parallelogramma segmentis circumscripta sunt in eadem
+ratione: sed segmenta Parabolica LDP ὅτ AKE sunt ut ista paral-
+lelogramma, per Propositionern, unde constat Corrollarium.
+
+S 2 Con}
+

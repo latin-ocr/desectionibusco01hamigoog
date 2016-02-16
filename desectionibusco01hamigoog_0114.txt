@@ -1,0 +1,49 @@
+Fic- ι.
+
+8 6 Seinonum Conicarum Lib. ΙΙ .
+
+P R O P. III.
+
+Si recta secans Parabolam occurrat ipfius diametro 3 rec-
+tangulum contentum ejus segmentis inter diametrum ὅτ,
+parabolam, erit aequale rectangulo contento segmento dia..
+metri inter verticem'ejus δι secantem, & parametro diametri
+cui ipsa secans ordinatim applicatur.
+
+E C E T recta Parabolam in punctis A, B, ὅτ occurrat diametro
+ΕΙ) in E, ὅτ ίῐῑ1 F G diameter cui AB ordinatim applicatur,
+
+ejusque parameter P; erit rectangulum ΑΕΒ aequale rectangulo
+ED in P. 0·
+
+Ducamr enim per verticem diametri FG recta Parabolam con-
+tingenS‚ ὅτ occurrens diametro ΕΙ) in R, erit parallela secanti AB
+
+(per Cor. 1. 25. lib. 1.) et ergo per Cor. 19. lib. 1. rectangulum
+ΑΕΒ est ad quadratum ex F R, ut ΕΙ) ad DR, five ut ED in P ad
+
+DR in P ς ergo permutando, rectangulum ΑΕΒ est ad rectangulum
+ΕΙ) in P, ut quadratumjex FR ad rectangulum DR in P, hoc est, in
+ratione aequalitatis, per praecedentem.
+
+Corollaria dd duas praecedentes.
+
+Con. Ι. Si duae rectae Parabolam contingentes fibi invicem
+
+‹occurrant3 quadrata ex earum segmentis inter contactus & occur-
+
+sum; erunt ad se invicem ut parametri diametrorum, quae per
+
+contactus transeunt. Nam (ducta diametro per occursum con-
+
+tingentium) quadratum ex alterutra contingente erit aequale rec-
+tangulo contento parametro diametri quae per ejus contactum
+
+transit, & eadem recta seiz, segmento diametri inter ipsius verticem,
+ὅτ occursum contingentium. = ’
+
+CoR. ΙΙ. Et similiter fi duae rectae Parabolam secantes fibi invicem
+occurrant 3 rectangula contenta segmentis secantium inter earum
+
+soccursum
+

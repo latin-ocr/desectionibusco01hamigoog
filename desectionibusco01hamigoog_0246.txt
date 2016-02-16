@@ -1,0 +1,41 @@
+2 0 o Seffionum Conicarum Lib. V.
+
+tionem contingens in D transit per L, alterurn terminum rectae a
+puncto D ordinatim applicatae diametro FG, hic circulus eandem
+habebit curvaturam cum sectione in D per Prop. praecedentem.
+
+Sit nunc sectio Parabola cujus axis est AB, δε per punctum D,
+non verticem axi5‚ ducantur reeta DS Parabolam contingenS, ὅτ
+diameter DG; describatur* circulus DMK contingens rectam DS
+in D, ὅ( abscindens a diametro DG segmentum DM ipsius para-
+metro aequale; habebit iste circulus-eandem curvaturam cum
+
+Parabola in puncto D.
+
+Ducatur enim a puncto D ad axem, ipfi ordinatim applicata, DE
+Parabolae rursus occurrens in F, δε ducatur per F diameter FH, cui
+a puncto D ordinatim applicata fit DH, Parabolae rursus occurrens
+in L, ὅτ circulo in K, a vertice diametri FH ducatur ad diametrum
+DG recta FG, ipfi ordinatim applicata, erit haee parallela contin-
+genti DS, ὅτ occurrat ipsi DH in C. Quoniam igitur parametri
+diametrorum DG, FH, sunt aequales (Cor. 3. 25. lib. 2.) ὅτ abscissae
+DG, FH sunt aequales (2. lib. 3.) erunt etiam ordinatae DH, FG
+
+aequales, propter' vero triangula DCG‚ FCH fimilia ὅτ ipsorum
+latera DG, FH aequalia, erit DC aequalis ipli CH δε proinde erit
+
+DC quarta pars totius DL ; erit igitur rectangulum LDC aequale
+(quadrato ex DH, stve ex FG, hoc est propter parabolam) rectan-
+gulo MDG; est etiam < per Lemma praecedens) rectangulum KDC
+aequale rectangulo MDG, ideoque ut priuS, circulus DMK tranfi-
+bit per L, sc proinde eandem habebit curvaturam cum Parabola
+
+in puncto D. QE D.
+
+« Con. Hinc, ‘fi circulus DBF contingat Parabolam in duobus
+punctis D, F, & per contactum D describatur circulus DMO‚ ean-
+dem curvaturam habens cum Parabola in puncto D; parameter
+axis Parabolar, diameter circuli DBF‚ parameter diametri DG, &
+diameter·circuli curvaturae, erunt continue proportionales. Erit
+juncta DF - axi ordinatim applicata (13 huj.) cui occurrat in E, per
+

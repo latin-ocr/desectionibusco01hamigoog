@@ -1,0 +1,41 @@
+8 Sebi‘ionum Conicarum Lib. Ι.
+
+· Ρ R Ο P.- VIII.
+
+ιο ι. Si conus scalenus AB'CL secetur plano per axem ad bafim
+
+τεᾶο, faciente triangulum ABL 3 ὅτ, ab ejus angulo verticali
+BAL secetur triangulum ADT simile triangulo ABL, sed
+subcontrarie politum, hoc est, ut angulus ATD fit aequalis
+angulo ABL 3 δε secetur iterum conus plano per DT recto
+
+ad planum trianguli ABL : sectio DKTF facta in superficie
+conica erit circuli circumferentia. .
+
+IT recta MN, communis interfectio plani DKTF cum plano
+. 'bafisff ⁴a quovis puncto K, in linea DKTF ducatur KGF
+parallel-a ipsi MN occurrens DT in G, per G ducatur ΕΗ in plano
+ABL parallela ipsi BL, tunc planum transiens per KGF, EGH,
+erit parallelum bafi (15. 1 1.) ac proinde ad planum ABL rectum3
+& ejus interfectio cum superficie coni erit circulus cujus diameterflst
+EGH (per praeced. δι coroll. 1.). propter utriusque sectionis pla-
+·num, ad planum trianguli ABL rectum, erit eorum interfectio
+KGF perpendicularis ad ABL planum (19. ιι.) δι proinde ad
+utramque rectam EH,DT ; ergo (propter circulum) quadratum ex
+KG, aequale est rectangulo EGH; pofiti autern fuerunt anguli
+ATD ,ὅτ (ABL five) AEH aequales, δε aequales sunt anguli ver-
+
+ticales ad G, & proinde aequales sunt reliqui anguli EDG, GHT,
+ζ ergo similia sunt triangula EDG, GHT; ergo erit DG ad EG, ut
+
+GH ad GT 3& ergo rectangulumDGT aequale est rectanguloEGH,
+‘hoc est, quadrato ex KG. Ergo punctum K, est in circumferentia
+circuli circa diametrum DT in plano DGK descripti; nam aliter
+rectangulurn DGT aequale esset quadrato rectae majoris ipsa KG
+vel minoris ea contra quodjarn fuit probatum. Pari, modo, idem .
+ostendi potest de quovis alio puncto in sectione DKTF quae est
+igitur circuli circumferentia. Hujusmodi sectio dicitur fictio sub-
+contram.
+
+PROP.
+

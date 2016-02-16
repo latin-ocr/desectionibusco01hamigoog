@@ -1,0 +1,38 @@
+SeHionum Conicarum Lib. V. 1 9 5
+
+Dico imprimis circulum CRP sectioni non occurrere nisi in
+punctis C & R, ὅ( effe ex una parte rectae CR extra δε ex
+altera parte intra sectionem. Nam nequit ei occurrere in puncto
+B, quia tum in isto puncto eam contingeret (per Cor. 2. 13. huj.)
+ὅτ proinde non occurreret sectioni in tertio puncto R (per 12. huj.)
+ὅτ pari ratione nequit occurrere Ellipfi in altero vertice diametri
+ΒΚ, nam juncta CK est alteri axi ordinatim applicata. Sed fi
+fieri potiit, sectioni occurrat in punctis C, R δε 0, ducatur recta
+per O parallela ipsi BA occurrens sectioni in N, et ipsi AC in L;
+erit propter sectionem (18. lib. ι.) rectangulum OLN ad quadra-
+tum ex LC, ut quadratum ex BA ad quadratum ex AC, hoc est
+in ratione aequalitatiS, et igitur quoniam O est in circulo, quem
+· Lc contingit in C, erit etiam N in eodem circulo ς et ergo circqlus
+CRP occurrit sectioni in tribus pun‘ctis R, Ο, N praeter pdnctum
+contactus C, contra Prop. 1 1. hujus ς ergo circulus CRP non nifi
+in punctis C, R sectioni occurrit; et quoniam non contingit
+sectionem in R (tum enim esset CR axi ordinatim applicata per
+partem primam Propofitionis 13. hujus, contra hypothesin) erit
+arcus istius circuli ex una parte rectae CR totus extra, et ex altera
+totus intra sectionem.
+
+Si nunc describatur quivis alius circulus, ut COS, ipso CRP F10.27.
+minor, contingens circulum CRP et sectionem in C, cadet intra
+sectionem ad utrasque partes puncti contactus C. Nam fi iste
+circulus transeat per Β, sectionem ibi continget, et proinde erit
+totus intra sectionem (part. 2. Prop. 1 3. huj.) occurrat vero ipfi
+CB extra sectionem ιιι S‘, et quoniam circulus COS est totus intra
+circulum CRP, cadet necess'ario ex una parte contactus C intra
+sectionem, fit igitur arcus CM intra sectionem, et cnm punctum S
+est extra sectionem arcus MS occurret sectioni alicubi ut in O;
+ducatur per O recta, ipsi BA parallela, occurrens sectioni ιιι Ν, et
+ipsr AC ιιι L, deinde ostendetur ut prius, quod rectangulum OLN
+
+est aequale quadrato ex contingle3ntg LC, et proinde quod punctuffi
+2
+

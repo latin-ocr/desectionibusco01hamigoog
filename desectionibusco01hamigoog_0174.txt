@@ -1,0 +1,39 @@
+1 38 Sestionum Conic‘arum Lib. ΙΙΙ.
+
+tra segmentum δι’, mtra triangulum BAC, auferat spatium
+quovis dato spatio minus·
+
+Pars 1. EGMENTO inscribatur triangulum BOC, ut i'n Prop.
+
+ι praec. cum hoc fit dimidium totius trianguli BAC erit
+plus quam dimidium segmenti Parabolici BOQC, ὅτ similiter fi
+reliquis segmentis inscribantur triangula ΒΜΟ, CQ, haec auferent
+plus quam dimidia horum segmentorum ὃς s1 in reliquis segmentis
+id semper fiat, idem continget; quare figura inscripta tandem
+deficiet a segmento Parabolico spatio quovis dato spatio minore
+(1. 10. )
+
+Pars 2. In area BACO inscribatur triangulum HAZ cujus basis
+HZ s1t parallela jungenti contactus BC, ὅτ quoniam aequales sunt
+(ΞΟ, OA, erunt etiam BH, HA ut δε CZ, ΖΑ aequales: ergo trian-
+gulum HAZ est dimidium triangulorum BOA, COA fimul, &s
+proinde est plus quarn dimidium area: BACO‚ ὅτ similiter, fi reli-
+quis segmentis BHOM, CZOQ, inscribantur triangula KHI, RZP,
+haee auferent plus quam dimidia horum segmentorum, ὅτ fi id
+semper fiat, idern contingen quare figura circumscripta tandem
+auferet ab, area BACO spatium 'quovis dato spatio minus.
+
+P R O P. XIII.
+
+Sit BOQC spatium Parabole'i δε recta BC terminatum, du-
+catur recta Parabolam contingens in O parallela ipfi BC,
+& occurrens in X δε Τ diametris ductis per puncta B δε
+C 3 erit segmentum, parabolicum BOQC ad parallelogram-
+mum circumscriptum BXTC‚ ut 2. ad 3.
+
+UCANTUR enim contingentes BA, CA, δέ per ipsarum oc·-
+⁷ cursum A dueatur diameter AG, quae transibit per contactum
+
+O, ,ἃ bisceabit ipsam BC ιιι G, turn propter AG duplam ipsius AO,
+Α erit
+

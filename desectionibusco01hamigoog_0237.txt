@@ -1,0 +1,40 @@
+Sestionum Conicarum Lib. V. 1 9 3
+
+Con. 1. Hinc, fi a puncto A vertice axis, qui in Ellipfi ὅτ Hy-
+perbola est transversim, ponatur in axe & intra sectionem recta
+ΑΡ, non major quam dimidium ipsius AC parametri ejusdem axiS‚
+erit PA minima omnium rectarum, quae ab eodem puncto P duci
+possunt ad sectionem. Si vero a vertice axis minoris Ellipseos
+ponatur recta ΑΡ, non minor quam dimidium parametri ejusdem
+axi8‚ erit ΡΑ maxima omnium rectarum, quae ab eodem puncto P
+duci pofl'unt ad sectionem. Nam in priore casu quoniam circulus
+radio PA descriptus non cadit extra circulum Alie, erit totus intra
+sectionem; ὅτ quoniam hic circulus in posteriore casu non eadit
+intra circulum AEC erit totus extra sectionem, unde in utroque casu
+constat propositum.
+
+Con. 11. Hinc, fi in AB axe sectionis conicae (qui in Ellipfi aut
+Hyperbola est transversus) detur punctum P cujus distantia a vet-
+tice propiore axis B est major dimidio ipfius parametri‚ patet rne-
+thodus ducendi rectam a puncto P, quae fit minima omnium rec-
+“ tarum quae ab eodem puncto duci possunt ad sectionem seiz. ad
+eandem partem axis. “
+
+Cum sectio {it Parabola ponatur in axe recta ΡΟ, versus verticem
+axis Β, aequalis dimidio parametri axi3‚ ὅτ cum sectio fit Ellipsts
+aut Hyperbola ponatur in axe a centro C recta CO versus verticem
+axis B ita ut CO fit ad ΡΟ, ut axis AB ad 'ipsius parametrum‚ ὅτ
+in omni sectioni ducatur per punctum Ο recta axi perpendicularis
+sectioni occurrens in T, erit juncta PT recta ducenda. Nam pei
+punctum T ducatur recta sectionem contingenS, erit recta PT
+huic contingenti perpendiculariS, ut constat ex part. 1. Prop. 25.
+δι Prop. 24. lib. 2. ergo recta PT est m'inima rectarum quae a
+puncto P duci „possunt ad sectionem seiz, ad eandem partem axis
+per Cor. 1. Prop. 13. hujus,
+
+·Et.fi in axe secundo Hyperbolae detur punctum Q ad quamlibet
+· - distantiam a cenum-eadem prorsli315 bmethodo ducenda est recta ἓξ
+
+Fxo. τι,
+22·
+

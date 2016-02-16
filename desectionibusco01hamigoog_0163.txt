@@ -1,0 +1,49 @@
+De Parabola. 1 29
+
+P R O P. 111.
+
+Si latus alicujus trianguli sit diametris Parabolae parallelum 3
+quadrata ex reliquis lateribus erunt inter se ut para-
+metri diametrorum quae habent ordinatas suasistis lateri-
+
+bus parallelas.
+
+IT LMN triangulum cujus latus MN fit parallelum dia· Fre, 3·
+
+metris Parabolae BFH, ὅτ fint'rectae P δε Qarametri dia-
+metrorum ED, F R quae ‘habent ordinatas suas BC, BR ipsis LM,
+LN parallelaS, · erit quadratum ex LM ad quadratum ex LN,
+
+ut {zuzim} emm per E ὅτ F, vertices diametrorum ΕΙ), FR, rectae
+
+EG, FG Parabolam contingentes, erunt parallelae ipsis LM, LN
+
+(per hypoth. et Cor 8. 25· lib. 1.) occurrat contingens EG dia-
+metro FR m A, <Sc a contactu E ducatur EK ordinata ad dia-
+
+metrum FR erit parallela ipsi FG, ὅτ. (per4 4.7 lib. 1.) KF, ΡΑ
+erunt aequales, ergo aequales sunt EG, GA. Qoniam igitur la-
+tera triangulorum LMN, GAF sunt mutuo pat-allelu, erunt ista
+triangula aequiangula: ergo quadratum ex LM est ad quadratum
+
+ex LN, ut quadratum ex (GA sive) GE ad quadratum ex GF,
+hoc est, ut rectaPad Q per Cor 1 Prop. 3. lib. 2. QE. D
+
+CoR. I. Si a quovis puncto Parabolae B dueatur ad diametrum
+ED recta BC ei ordinatim applicata, ὅτ quaevi's alia recta BD·‚
+erit quadratum ex BD aequale rectangulo contento abseiffi EC
+δι’. parametro diametri FR cui recta ordinatim applicata est ‘ipfi
+BD parallela. Sit recta Qparameter diametri FR &- P parameter
+diametri ED; per hanc propositionem quadratum ex BC est ad
+
+quadratum ex BD, ut (Ρ ad Qs ve ut) P m EC ad Qin EC: sed
+(per 1.1ib. 2 ) quadratum ex BC est aequale rectangulo Ρ m EC:
+
+ergo quadratum ex BD aequale est rectangulo Qin EC.
+
+R Con.
+
+j„
+
+memmei ey (300ng
+

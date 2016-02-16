@@ -1,0 +1,36 @@
+·1 o 8 SeHiOnum Conicarum Lib. 11.
+
+sam EN, qu’ae est igitur dimidium istius parametri. Hujusmodi
+segmentum axis EN, dicitur Subnormalis.v ’
+
+Pars 2. Propter re'ctangula triangula· TPN, TEP fimilia, erit
+rectangulum TE in TN aequale quadrato 'ex TP, hoc est, rectan-
+gulo contento TA in parametrum diametri DQ, (Prop. 2. huj.)
+est ergo ut TE ad TA, ita paramete'r ,diametri DQad 'ipsam
+TN, quae est igitur dimidium istius parametri.‹ Q E. D.
+
+Con. I. Hinc, fi a vertice P cujusvis diametri Q) ducatur recta
+PF ad focum, erit quarta pars parametri istius diametri. ’ Nam,
+ducta contingente PT, quoniam diameter DQest perpendicularis
+ad directricem Parabolae, erit angulus FPT aequalis angulo DPT
+(15 huj.) hoc est, angulo alterno FTP, ergo aequales sunt FP, FT,
+fi igitur centro F describatur circulus per puncta T, P transibit
+etiam per N propter angulum TPN rectum, est igitur recta PF
+
+di miid um ipfin ns TN. ὅτ ergo est quarta pars parametri diametri
+· DQ per partem 2. PropofitioniS.
+
+Vide Newt. Princ Math. Lem. 13. lib. 1.
+
+Con. 2. Et hinc, segmentum diametri inter verticem ejus 8( di-
+rectricem est quarta pars ipsius parametri, ut patet ex (Cor. praec.
+ὅτ 1 2. huj.) fl ‘vero punctum P effet vertex axis constat utrumque
+Corollarium ex Definitione focis · ·- ‚2 ·
+
+Con. 111. Hinc, fi recta jungens vertices duarum diametrorum
+fit axi ordinatim applicata, ipsarum parametri erunt aequales.
+Nam ipsarum segmenta inter vertices & directricem sunt aequalia,
+utpote latera opposita parallelogrammi ι 1 ·
+
+paon
+

@@ -1,0 +1,39 @@
+. SeHiOnum Conicarum Lib. V. 1 99
+
+AMEL, cadit ad utrasque partes puncti contactus C, extra sectionem; Fre. 29.
+quoniam igitur quivis circulus sectionem in puncto A contingens
+cadit ad utrasque partes istius puncti vel intra circulum ARC vel
+extra sectionem, ‘patet nullum circulum tranfire posse inter sec-
+tionem & circulum ARC; ergo circulus iste, sciz. qui ab axe AB
+abscindit segmentum AC ipsius parametro aequale, eandem habet
+curvaturam cum sectione in puncto A per definitionem praecedentem.
+-Demonstratio est prorsus eadem, curn punctum A est vertex
+axis minoris Ellipseos; pro Minor legendo Mcy'or, ὅτ pro intra
+extra, et vice versa.
+Cas. 2. Sit nunc Ellipfis aut Hyperbola‚ cujus axis transversus Fxo. ²9·
+est AB, ὅτ centrum C, ὅτ per punctum D non verticem axis du-
+catur recta DS sectionem contingens δε describatur circulus DMK
+hanc rectam contingens in puncto D ὅτ abscindens a diametro
+CD segmentum DM aequale ipsius parametro ς habebit hic circulus
+eandem curvaturam cum sectione in puncto D.
+Ducatur enim a puncto D ad axem transversum ordinatim ap-
+
+plicata DE, sectioni iterum occurrens in F, per punctum F duca·
+tur sectionis diameter FCG, cui ordinatim applicata fit DH, sec-
+
+tioni rursus occurrens in L & circulo in K. Ducatur diameter CQ,
+ipsi DS parallela‚ occurrens ipsi DL in V, ὅτ ducatur semidiameter
+CR ipsi CF conjugata occurrens ipfi DS in S, ὅτ ei ordinatim appli-
+cata fit TD ε quoniam semidiametri CD, CF sunt aequaleS, erunt
+ipsarum conjugatae CQ CR aequales ς fit ΡΙ) dimidium ipsius
+MD parametri diametri DCM, et erit rect'angulum PDC aequale
+quadrato ex semidiametro CQfive quadrato ex CR, hoc est rectan-
+gulo SCT per 48, δε 49. lib. 1. five rectangulo VDH, (propter (ΣΞ,
+VD ὅτ CH, TD parallelas) quoniam igitur rectangula PDC, VDH
+sunt aequalia‚ ipsorum dupla seiz. rectangula MDC‚ LDV erunt
+aequ‘alia ε sed rectangulum KDV est quoque aequale rectangulo
+MDC (per Lemma praecedens) et proinde aequales sunt LD, KD,
+
+ergo puncta L, K, coincidunt3 ergo quoniam circulus DKM sec-
+’ tionem
+

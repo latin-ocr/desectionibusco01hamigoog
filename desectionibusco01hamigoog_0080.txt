@@ -1,0 +1,41 @@
+5 6 Seb'i‘ionum Conicarum Lib. Ι.
+
+erunt fibi mutu0, ὅτ rectae ΟΧ jungenti contactus parallelae.
+Nam (per Prop. 38, ὅτ Cor. praeC.) erit ΡΟ ad Px ut OM, ad
+XR; ergo recta XO-est ipfi MR parallela (per 2. 6.) et similiter
+quoniam ΡΟ -est ad PX, ut ΝΟ ad ΤΧ, ‚erit (alternando) ΡΟ
+ad ΝΟ, ut PX ad TX, ὅτ erit (convertendo) ΡΟ ad ΡΝ, ut PX
+ad ΡΤ, ergo triangula ΟΡΧ, ΝΡΤ, habentia latera cirea aequales
+
+angulos proportionalia, sunt aequiangula; (6.6) ergo angulus
+TN P est aequalis angulo alterno ΧΟΡ, ὅτ proinde recta XO est
+ipsi -TN parallela.· >
+
+Con. 111. Hinc, stantibus jam posuis, segmentum NR asymp-
+toti CZ interceptum duabus rectis contingentibus Hyperbolam vel
+
+Hyperbolas oppositaS, bifariam secatur recta ΟΧ (fi opus producta)
+
+jungente contactus; nam ΟΧ est parallela ipfi MR (per Cor. praec.)
+occurrat igitur (fi opus producta) asymptoto CZ in B, ὅτ propter
+ΜΟ, ΟΝ aequales (36. huj.) erunt rectae RB, BN aequales.
+
+PRoPme.
+
+:1⁷10 ³5· Si recta secans Hyperbolam vel Hyperbolas in punctis
+E, F, vel Hyperbolarn contingens in O, occurrat diametro
+-secundae MN m puncto P; erit rectangulum EPF con
+tentum segmentis secantis, vel quadratum ex 'contingente
+ΡΟ, ad quadratum ex segmento PC inter rectam ὅτ ce'n·
+trum fimul cum quadrato ex semidiametro MC, ut qua-
+dratum ex CA semidiametro cui secans ⁵wel contingens
+fit parallela, ad quadratum ex MC semidiametro cui secans
+vel contingens occurrit. ·
+
+UCATUR enim per P, recta Q ipfi ΜΝ ordinatim
+applicata, ὅτ fit LV diameter ipfi MN conjugata, ὅτ pro-
+inde parallela rectae ΩΒ, per Prop. ·praec. erit rectangulum F PE
+ad (reetangulum QR five) quadratum ex PQ ut quadratum
+
+ex
+

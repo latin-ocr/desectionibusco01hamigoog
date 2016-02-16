@@ -1,0 +1,41 @@
+1 7 8 Sebi‘ionum Conicarum Lib. V .
+
+vicemcontingentes per N, T ductae in B, erit punctum B ad
+rectam OP; nam per Β ducatur diameter CD ὅτ fit vertex ejus
+D, ὅτ occurrat ipsi ΝΤ in A, erunt CB, CD, CA proportionaleS,
+ὅτ erit AT ordinatim applicata diametro CD, ergo puncta B, D,
+A ὅτ recta NAT ponuntur ut in hac propofitione3 fi igitur
+punctum B non fit in recta ΟΡ, duci potest per B recta ipfi CY
+parallela, quae occurret Hyperbolae in puncto ab Ο diverse, &
+contingens per istud punctum ducta occurret ipsr NAT ad asymp-
+toton CY, per propositionem, ergo ei occurret in F & igitur
+duae contingentes ad asymptoton occurrent, quod fieri nequit;
+est igitur B occursus ¹- contingentium per N, T ductarum, in recta
+
+ΟΡ.
+
+CoR. 11. Vel si positione dentur Hyperbola & recta ΟΡ ipfius
+asymptoto CY parallela; fi a quovis puncto Β in ipsa ΟΡ du·
+cantur duae rectae, Hyper‘bolam, vel Hyperbolas oppositas con·
+tingentes in ,duobus punctis N, T; recta jungens ista puncta
+transibit per punctum datum in asymptoto CY cui recta ΟΡ est
+parallela Ducatur diameter CD per B, occurrens ipfi NT in A,
+δι per punctum O, in quo recta ΟΡ Hyperbolae occurrit, ducatur
+contingens occurrens asymptoto CY in F, ὅτ quoniam propor-
+tionales sunt CB, CD, CA δι recta NAT fit ordinatim applicata
+diametro CD, contingens OF occurrit ipfi NAT ad asymptoton
+CY, per hanc Prop ergo rectajungens contactus N, Ttransrbit per
+punctum F. sed propter ΟΡ positione datam, dabitur punctum O
+ὅτ. proinde contingens OF pofitione datur, occurrit autem ipfi CY
+
+politione datae m F, est igitur punctum F datum. ἶ
+
+Con.111. A puncto quovis F in Hyperbolae asymptoto CY,
+ducatur recta contingens Hyperbolam in Ο δε per Ο ducatur
+recta ΟΡ ipfi CY parallela· s1 per punctum F ducatur recta
+secans Hyperbolam vel Hyperbolas in punctis N, T, &- oc·
+currens ipsi ΟΡ in M, secabitur harmonice in punctis N, M,‘
+
+T, F. .
+Nam
+

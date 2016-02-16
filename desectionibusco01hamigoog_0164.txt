@@ -1,0 +1,44 @@
+1 3 o Sestionum Conicarum Lib. II Ι.
+
+Con. 11. Si recta OE contingat Parabolam ὃ( a puncto in ea
+
+O ducatur recta secans Parabolam in B, H punctis», ὅτ occurrens ,
+
+in D diametro duetae per contactum E, quadratum ex segmento
+
+OD inter contingentem ὅτ diametrum erit aequale rectangulo BOH υ
+
+contento segmentis secantis inter contingentem ὅτ Parabolam. Nam
+per hanc Prop‘ositionem quadratum ex OD est ad quadratum ex
+OE, ut rectangulurn BOH (per Cor. 3. 3. lib.·2.) ad quadratum
+
+ex eadem OE.
+Con. III. Parameter alicujus diametri Parabolae est ad
+
+parametrum axis, ut quadratum radii ad quadratum smus an-
+guli quem ista diameter cum suis ordinatis comprehendit, ut
+patet ex hac Propositione‚ ὅτ ex eo quod quadrata laterum
+
+trianguli sunt ut quadrata finuum angulorum opposltorum. Et
+proinde parametri diametrorum alicujus Parabolae sunt inter se re·
+
+ciproce, ut quadrata finuum angulorum quos ipsae diametri cum
+
+suis ordinatis comprehendunt; ideoque parameter principaliS, id
+est parameter axis, est minor quavis 31ὶᾶ parametro.
+
+PROP. IV.
+
+'Si ··linea jungens terminos duarum ordinatarum occurrat dia-
+metro cui applicantur-3 pars diametri inter verticem
+ejus δε rectam jungentem, erit media proportionalis in-
+ter abscissas·
+
+INT rectae ΕΒ, GD ordinatim applicatae diametro Parabolae
+AD, ὅτ ducatur rectajungens punctaE & G occurrens dia-
+metro AD in C, erit CA media proportionalis inter absciss'as AB,
+Ducantur enim per puncta E et G duae contingentes quae 00·
+currant diametro AD in H et F, erunt AH, AB aequales, ut etiam
+AF, AD, (47. lib. 1.) sed constat (ex Prop. 54. lib. 1.) quod AC
+mter
+

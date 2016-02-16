@@ -1,0 +1,46 @@
+SeHiOnum Conicarum Lib. V. 2 o 7
+
+sectio contingens rectas AB, AV in B & V, δι transiens per K,
+tranfibit haec quoque per F δε E·‚ nam fi haec sectio non transeat
+per F occurrat rectae KF' in X ; tum per Prop. 19. hujus», rectan-
+gulum KDX erit ad rectangulum XGK ut‘quadraturn· ex HD ad
+quadratum ex HG hoc est (per constructionem) ut rectangulum
+KDF ad rectangulum FGK, quod est absurdum; ergo sectio
+
+tranfit per punctum F, ὅτ. similiter ostendetur eam transire per
+punctum E.
+
+Si recta KF jungens duo e tribus punctis datis fit parallela ipfi
+AV uni e rectis positione datis; tum punctum in ea H ad alter-
+utram partem puncti D sumendum est, ita ut quadratum ex DH
+fit aequale rectangulo KDF, ut patet ex Prop. 53. lib. 1.
+
+’ Cum segmenta DK‚ FG, ὅ( proinde rectangula KDF, FGK,
+sint inaequalia, patet punctum H sumi posse vel inter K ὃῑ F vel
+ad alteras partes segmentiminoris DK‚ & pari ratione punctum
+P sumi potest ad alterutras partes segmenti LK ; & similiter ductzi
+rect& per E, F, si haec occurrat rectis AB, AV, in ea inveniri
+
+possunt duo puncta eodem modo quo invent2fuerunt puncta H, P,
+ὅτ proinde aliquando duci possunt duodecim rectae ficut recta ΗΡ
+
+docta fuit, et quot ex his rectis occurrunt lateribus anguli BAV ’
+
+tot describi poffunt sectiones quae problemati in hoc casu satissa-
+cient.
+
+‘chfi 3. Si positione dentur duat rectae AB, AV δε oporteat
+sectionem describere quae contingat rectam AV in puncto dato V
+& rectam AB in alio puncto ὅτ transeat per puncta data K, F ς
+jungatur KF δι in ea sumatur punctum H ut in casu prat-cedente,
+ducatur VH occurrens ipsi AB in B, tum ut prius describatur
+sec'tio contingens rectas AB, AV in B ὅτ V δι transiens per K,
+transibit haec per punctum· F, ut‘ in casu praecedente. Si punctum
+H in hoc casu fumi potest vel inter puncta K, F vel non, des-
+c‘ribi poffunt duae sectiones quae in hoc casu problemati satisfacient.
+
+In hac propositione solvuntur omnes casus Prop. 23. lib. 1.
+
+Prin. Math. ·
+Ρ R O P.
+

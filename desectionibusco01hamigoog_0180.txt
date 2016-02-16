@@ -1,0 +1,46 @@
+1'10
+
+‚4-
+
+1 44 §mimum Conicarum Lib. IV.
+
+PRoP. nit·
+
+Si anguli contenti asymptotis Hyperbolae fint recti3 duae
+quaevis diametri conjugata: erunt inter se aequales. S1 vero
+anguli asymptotis contenti non fint rect13duae quaevis
+diametri conjugatae erunt inaequales, ὅσ differentia inter
+ipsarum quadrata erit aequalis differentiae inter quadrata
+
+ι duarum quatumvis aliarum diametrorum conjugatarum.
+
+Pars 1.· IN T AD, AE asymptoti Hyperbolae cujus cen-'
+
+· trum est A, et a centro ducatur semidiameter quae·
+vis AB, ὅτ per verticem ejus B ducatur contingens asymptotis
+occurrens in punctis D, K, erit BD vel ΒΚ aequalis semidiametro
+ipsi AB conjugatae (38. lib. 1.) igitur fi foret angulus DAK-
+rectuS, circulus centro B ὅτ diametro DK descriptus transiret pet
+punctum A (convers. 3¹· 1 .') ideoque semi di iarneterABaequalis esset
+
+ips1 BD vel BK, hoc est, semidiametro ipfi conjugatae.
+
+In hoc casu Hyperbola dicitur AEquilatera.
+
+Pars 2. Sint AD, ΑΕ asymproti Hyperbolae angulum acutum
+continentes, ὅτ ductis semidiametro AB δε contingente 'DBK ut
+prius ς quoniam angulus DAE est acutus cadet extra semicirculum
+circa DBK descriptum (Convers. 31. 1.) ideoque erit semidiameter
+transversa AB major ipsa BD vel ΒΚ. Ducatur nunc quaevis
+alia semidiameter AC δε per verticem ejus C ducatur contingens
+-asymptotis occurrens in punctis F, E, ostendendum est quod diffe-
+rentia inter quadrata ex ipsis AB, BD aequalis est differentia: inter
+quadrata ex ipsis AC, CF: a punctis B, K, C, E ducantur ad asymp-
+toton DA perpendiculares BG, KL, CH ὅτ EM, propter aequales
+DB, ΒΚ, erunt DG, GL aequaleS, ὅτ propter FC, CE aequaleS, erunt
+
+ΡΗ, HM aequaleS, & propter perpendicularem BG, erit differentia
+
+{inter quadrata ex AB ὅτ BD aequalis differentiae inter quadrataG ex
+A
+

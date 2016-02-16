@@ -1,0 +1,46 @@
+1 2 8 Seb‘z‘ionum Conicarum Lib. III.
+
+Pars 1. 1 T recta P parameter diametri quae per contactum '-
+· F tran11t,quadratum ex FG est aequale rectangulo
+GV m P, ὅτ quadrat tm ex FR est aequale rectangulo RD tn P
+
+(per Prop. 2. lib. 2.) ergo quadrata ex FG ὅτ FR sunt ad se invi-
+cem ut segmenta GV, RD. ·
+
+Pars 2. Sit recta Ρ parameter diametri, cui ipsa secans AB or-
+dinatim applicatur31ectangulum AKB est aequale rectangulo FK
+in P, ὅτ rectangulum ΑΕΒ est aequale rectangulo VE in P (3.
+
+lib. 2.) ergo rectangula AKB, ΑΕΒ sunt ad se invicem ut seg-
+menta FK, VE. QE. D.
+
+¹ Con. Occurrat recta Parabolae in punctis A,13, ὅτ fit F vertex
+diametri occurrentis -rectae AB in K, ,fi a, quovis ‘alio puncto E
+ipsius AB ducatur recta EV parallela ipfi FK ὅτ quae fit ad FK, ut
+
+rectangulum ΑΕΒ ad rectangulum AKB· erit punctum V in Pa-
+rabola cujus diameter est FK, ὅτ quae tranfit per puncta A, F, Β.
+Cum punctum E fit inter ·A ὅς Β, recta EV ducenda est ad istas
+
+partes rectae AB ad quas est punctum F, secus ad contrarias,
+
+P R O P. 11.
+Si a verticibus duarum diametrorum ducantur ordinatim ap-
+
+. ⁷ plicatae ad ipsas diametros3 absciffae inter ordinatas δε ver-
+
+tices diametrorum erunt inter se aequaleS. ’ . ,
+
+0, , Α Verticibus diametrorum FG, HM ducantur PL, HK ordi·
+
+natim applicatae ad diametros HM, F G absciffie HL, FK
+erunt aequales.
+
+Ducatur enirn a vertice diametri HM recta Parabolarn contin·
+genS, occurrens diametro F G* in A, propter- paralielogrammu‘m
+
+HAFL, absciffa HL est aequalis ipsr AF, hoc est, absciffae FH 3 per
+Prop. 47. lib. 1. QE. D.
+
+PROP.
+

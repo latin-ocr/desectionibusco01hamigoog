@@ -1,0 +1,51 @@
+SeHionum Conicarum Lib. Ι. 67
+
+D, ὅτ ipfi Aa? ducatur FE ordinatim applicata, erit ipsi CO paral-
+lela ὅτ aequ ιε.
+
+Qoniam, per casum praecedentem, sunt EC, BC, DC propor-
+tionaleS, erit quadratum ex EC ad quadratum ex BC, ut EC ad
+
+DC (Cor. 2ο. 6.) ergo dividendo, erit rectangulum BEA ad qua-
+dratum ex BC, ut ΕΙ) ad DC 3 sed quadratum ex ordinata FE est ad
+
+quadratum ex semidiametro secunda CM, ut rectangulum BEA ad
+
+. quadratum ex BC ut constat ex Des. 24. ergo quadratum ex F E
+
+est ad quadratum ex CM, (ut ΕΙ) ad DC, hoc est,) ut ipsa FE ad
+
+(ΞΡ : ergo F'E, CM, CP sunt proportionales (per convers. Cor. 20.
+6.) ergo sunt CO, CM, CP proportionales, QE. D.
+
+Corollaria ad duas praecedentes.
+
+Con. 1. Si recta contingens Ellipfim aut Hyperbolam m puncto Fre μ,
+quovis F, occurrat ejus diametro AB (quae m Hyperbola fit trans 42·
+
+versa) in D, δε a contactu ducatur ordinata FE ad diametrum,
+
+erit rectangulum CED contentum segmentis diametri, inter ordi-
+natam & ceum, & inter eandem & contingentem, aequale rec-
+
+* tangulo ΑΕΒ contento segmentis inter ordinatam & vertices dia-
+
+metri. Nam quoniam, (per praecedentes ὅτ 17. 6.) est rectangu-
+lum ECD aequale quadrato ex CB· s1 in Ellipfi utrinque auferaur
+quadratum ex CE, erit reliquum seiz. rectangulum CED aequaie ,
+reliquo rectangulo ΑΕΒ (per 3. ὅτ 5. 2.) δι m Hyperbola demPtis
+
+hisce atqualibus sciz. rectangulo ECD δε quadrato ex BC. a' qua-
+drato ex EC, erit reliquum rectangulum CED aequale reliquo rec-
+
+tangulo AER, per 2. δι 6. 2.
+
+Con.11. Occurrant jam contingens δε ordinata a puncto F F1‘2·2·4
+ductae, diametro secundae CM in P ὅτ O, ὃτ. quoniam rectangu-
+lum POO aequale est quadrato ex CM, addatur utrinque quadra-
+
+tum ex CO, δε erit (3. 5.) rectangulum POC aequale quadratis
+ex CM, CO simul.
+
+Ι 2 · Con.
+

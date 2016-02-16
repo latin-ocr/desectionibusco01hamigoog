@@ -1,0 +1,44 @@
+1 4 2 Sec‘Jt'onum Conicarrrm Lib. IV.
+
+Quoniam per Cor. 1. 31: lib. 2. perpendicularis CI< est ad
+CA serniaxem transversum, ut CM semiaxis secundus ad CD
+semidiametrum contingenti FH parallelam‚ erit rectangulum CK
+in CD, hoc est, parallelogrammum FCDH aequale reetangulo
+quod serniaxibus CA. δε CM continetur; unde liquet propo-
+fitum.
+
+Con. Manifestum est, parallelogrammum Ellipfi aut Hyper-2
+bolis conjugatis inscriptum, jungendo vertices duarum diametro-
+rum conjugatarum‚ effe dimidium parallelogrammi his conjugatis
+circumscripti, &- proinde omnia hujusmodi parallelogramma effe
+inter se aequalia.
+
+PRoR η
+
+10 - Si 'a verticibus duarum diametrorum conjugatarum CF, CG
+
+Ellipseos‚ ducantur ad tertiam diametrum AB ordinatim '
+applicatae FE, GH; erit quadratum ex intercepta inter
+
+alterutram ductarum et centrum, aequale rectangulo con-
+
+tento segmentis inter reliquam ductam δε vertices dia-
+metri ad quarn ordinatae ducuntur.
+
+UCATUR enim per verticem alterutrius diametri CF
+reeta contingens Ellipfim ὅτ occurrens diametro AB in
+
+D, ejusque conjugatae Mm in O, propter parallelas FD, CG
+δε FE, GH erunt triangula FED, GHC aeqnizmgnla, δι’. prop-
+ter parallelas CO, FE, erunt rectangula OFD, CED similia·
+est igitur OFD ad CED ut quadratum ex FD ad quadra-
+tum ex ED3s1ve (ob aequiangula triangula) ut quadratum ex
+CG ad quadratum ex CH, sed rectangulum OFD est aequale
+quadrato ex CG, (51. lib. r.) ergo quadratum ex CH est aequale
+rectangulo CED, hoc est, rectangulo AER (Cor.'1. 49.- lib. 1.)
+contento segmentis diametri AB inter reliquam ductam F E δε
+vertices ejus. Et ablatis histe aequalibus a quadrato ex CB, erunt
+reliqua,
+
+&affixam
+

@@ -1,0 +1,40 @@
+⁴ De E lltPst &² Izfifperbola. 1 5 5
+
+festum est, unicam Ellipfim, vel duas tantum Hyperbolas opposrtas
+describi posse, quae Problemati satisfacient.
+
+Con. 11. Hinc, circa datum parallelogrammum EFGH des-
+cribi pofl‘unt Ellipfis aut Hyperbolae oppositae‚ ita ut Ellipfis, vel
+una ex Hyperbolis, transeat per datum punctum P. Ducantur
+enim rectae AB, Mm bifariam secantes latera opposita parallelo-
+grammi, in his rectis erunt diametri conjugatae sectionis descri-
+bendae; per punctum P ducatur recta ipfi AB parallela, et oc-
+currens Mm in R, &lateri ΕΗ in O, ὅτ s1t RN aequalis ipfi PR,
+tum st per E, F, G, H describantur Ellipfis aut Hyperbolae oppo-
+fitae, ita ut quadratum ex diametro in recta AB s1t‘ ad quadratum=
+ex diametro in recta Mm, ut rectangulum PON ad rectangulum
+EOH, erit punctum P, in hac Ellipfi, vel in una ex Hyperbolis,
+ut patet.
+
+Si sectio describenda fit Ellipfis, oportet punctum P effe inter
+oppofita latera parallelogrammi producta. Si vero fit Hyperbola
+oportet P esse intra parallelogrammum vel inter latera adjacentia
+producta. · ’
+
+Con. 111. Hinc vel, Ellipfis vel Hyperbolae oppofitae describi
+' poss‘unt, ita ut ipsarum centrum fit punctum datum C, ὅτ diameter
+recta MCm positione data, & ut rectae parallelae EF, ΡΝ ab ipsa
+MCm bifariam sectae ind D et R, fint isti diametro ordinatim ap-
+plicatae. Sumatur enim in recta Mm segmentum CV ipsi CD
+aequale δε per V ducatur GH ipsi EF parallela et aequaliS, et
+bifariam secta in V, jungantur HE, GF & per Cor. praecedens
+describantur Ellipfis aut Hyperbolae oppositae circa parallelogram-
+mum EFGH, quarum una transeat per punctum P, erit haec sectio
+describenda 3 nam erit recta Mmdiametcr ejuS, quia bifariam secat
+parallelas EF, GH Ellipfi aut Hyperbolis oppofitis terminatam, ὅτ.
+ei ordinatim applicata erit recta ΡΝ ipfis EF, GH parallela; &
+quia aequales ordinatae EF, GH aequaliter a puncto C distant, erit
+
+istud punctum C centrum. SiUrectae datae EF, PN sint aequales
+. 2 et'
+

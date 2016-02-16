@@ -1,0 +1,43 @@
+SeHiOnum Conicarum Lib. V. 1 8 3
+
+ut PF ad PN ι erit A vertex axis (11. lib. 2.) δε fi aequaies sint
+FA, AD, sectio erit Parabola ; fi vero non, sumatur SF ad
+SD, ut FA ad AD, erit S alter vertex axi53 ὅτ si FA major fit
+ipsa AD, punctum S sumendum est ad eas partes foci ad quas est
+punctum A, ad partes autem contrarias, fi F A fit minor ipsa AD,
+ὅτ in priore casu sectio erit Hyperbola‚ et in posteriore EllipfiS.
+
+COR. 11. Hinc etiam, datii positione directrice DX, et datis foco F cm. 15.
+huic directrici propiore et puncto in sectione Ε, patet methodus
+ducendi rectam quae sectionem contingat in puncto E -‚ per puncta
+E, F ducatur recta EFO, ὅτ huic perpendicularis ducatur FB
+occurrens directrici in B, erit juncta ΕΒ contingens; narn fi non,
+occurrat ΕΒ sectioni iterum in T, &juncta TF producatur ad
+Y; per hanc Prop. recta FB bifariam secat angulum EFY qui
+deinceps est angulo EFT, ergo angulus YFB aequalis est angulo
+EFB hoc est angulo 01³3, quod est absurdum: similiter in Fig. 17.
+ostendetur rectam ΕΒ non iterum occurrere sectioni vel sectioni
+oppositae, ergo ΕΒ est contingens, Si vero ipsa EFO s1t direc-
+trici perpendiculari5‚ recta per Ε ducta, parallela directrici, erit
+contingenS, ut patet.
+
+CoR. III. Hinc s1 recta ΕΒ contingens sectionem occurrat di-
+rectrici ejus DX in B, <Sc a contactu E ducatur EF ad focum ipsi
+DX propiorem ; eritjuncta FB perpendicularis ipsi EF ; nam si non,
+ducatur perpendicularis occurrens directrici in N, juncta EN erit
+quoque contingens per. Cor. praeced. quod est abstirdum.
+
+CoR. IV. Hinc, fi recta quaevis EGjungens contactus duarum
+contingentium BE, BG transeat per focum F; recta FB a foco ad
+concursum contingentium ducta erit perpendicularisjungenti con-
+tactus, Nam sit DX directrix ipsi F propior, ὅτ fit A vertex axis
+transverfi inter F ὃῑ rectam DX, tum quia puncta F, A, D posita
+sunt & recta DX ducta est ut in Prop. 5.hujus dictum fuit, ὅτ EG
+· transit per F, punctumB concursus contingentium erit in directrice
+
+DX ς, ergo FB est ipsi EG perpendicularis per Cor. praececlifnss. O P
+
+opem QGQQgJe f„  
+
+ 
+

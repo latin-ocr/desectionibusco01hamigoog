@@ -1,0 +1,44 @@
+4 SeHio'num Co'ni‘carum Lib. 1.
+
+AM recta AD tum superficiei conicae‚ turn plano ADE com-
+
+mnnis est, curn vero praeter D quodvis aliud punctum in
+
+basis peripheria, puta F, stt extra rectam DE, erit etiarn praeter
+
+DA quaevis alia recta F A in superficie conica, extra planum ADE,
+unde liquet propositum.
+
+Con. 1. Hinc ὅτ ex defin. 1. liquet planum ADE productum
+'superficiem oppositam in AD producta contingere.
+
+Con. 2. Hinc etiam patet methodus ducendi planum quod
+superficiem conicam in data recta AD contingat; nempe ducta in
+plano basis recti DE ejus peripheriam in D contingente, actoque
+per AD, DE plano ADE, hoc superficiem in recta AD continget.
+
+-Con, 3. 'Si q'uaevis recta ΕΙ) superficiem conicarn in puncto
+D contingat, ὅτ a vertice ducatur AD; planum ductum per AD,
+DE, superficiem continget. Nam per verticem A ducatur, in
+plano ADE, recta AG parallela ipfi ΕΙ), haec omnibus lateribus
+-coni in vertice occurrit: ergo fi quodvis aliud latus coni praeter
+AD, *effet in plano ADE, recta ΕΙ) ipfi AG paranda, isti lateri ne-
+cessario occurreret, ac proinde ΕΙ) occurreret superficiei conicae in
+duobus lateribus contra hypothesin. Ergo planum ADE, nisi in
+AD, superficiei non occurrit.
+
+Con. 4. Praeter ADE aliud planum secundum rectam AD su-
+perficiem conicam non contingit. Nam interfectio ejus cum plano
+bafis secabit peripheriam ejus, Unde δι planum ipsum superficiei
+conicae occurret in duabus rectis (per Prop. 1.) et ergo eam non
+
+continget.
+
+PROP. IV. PROBL. I.-
+
+1⁷¹0· 5· ⁶· Per rectam AC per coni verticem extra snper-fierent ejus ut-
+cunque ductam, planum ducere, quod superficiem coni-
+
+' cam contingat. ff
+¹ ·- . P E R
+

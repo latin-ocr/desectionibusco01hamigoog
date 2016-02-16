@@ -1,0 +1,45 @@
+Sestionum Conicarum Lib. I . 7 1
+¹ Si punctumdatum D fit in asymptoto Hyperbolae, in hoc puncto
+
+*duae contingentes convenire nequeunt (Gor. 5 39. hujus) methodus‘
+
+ι vero ducendi rectam, quae Hypetbolam adjacentem contingat,
+ostensa fuit m Cor.. 5 Prop. 36.
+
+PRoR mn'
+
+Si duae rectae contingentes sectionem conicam vel sectiones ,ρ
+oppositas fibi invicem occurrant, &c per punctum in una ’
+
+contingente ducatur recta alteri paranda, occurrens rectae
+
+jungenti contactus, δε· conveniens in duobus punctis cum
+
+sectione conica3 erit quadratum ex segmento ejus inter
+
+contingentem δε jungentem contactus, aequale rectangulo
+
+contento segmentis interceptis inter contingentem, δῦ sec-
+. tionem.
+
+ommam-r recta} ΑΒ. A'c ‘sectionem comeam vel
+
+sectiones oppofitas in B, C punctiS‚ jungatur BC ὅτ per
+punctum D in una contingente AC, ducatur recta alteri AB pa-
+rallela‚ occurrens ipsi BC in G, et sectioni in E, F punctis ; erit qua-
+dratum ex DG aequale rectangulo EDF.
+
+Nam quoniam contingens AC occurrit parallelis FD, BA, rec-
+tangulum EDF contentum sQmentis secantis, est ad quadratum
+ex contingente BA. ut quadratum ex DC ad quadratum ex AC,
+(per Cor.6.18.hnj.)hoc est (oh fimilia triangula) ut quadratum ex
+DG ad quadratum ex BA: ergo rectangulum EDF et quadratum
+ex DG aequantur. Q E. D.
+
+Con. Occurrant fibi invicem in puncto A, duae rectae contin-
+gentes sectionem conicam, vel sectiones· oppositas, fi a quovis
+‚puncto Pin una¹ ‚contingente AC, ducatur recta alteri contingenti
+parallela, occurrens jungenti contactus in L, ὅτ, ab eodem P ducatur
+
+quaev1s
+

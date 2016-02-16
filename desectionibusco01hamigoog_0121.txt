@@ -1,0 +1,42 @@
+SeHiOnum Conicarum Lib. 11. 9 3
+
+DEFINITIONES III‚IV,V.
+
+ΙΙΙ. I in axe Parabolae sumatur intra sectionem punctum, cu-
+
+jus distantia a vertice axis fit quarta pars ipsius parame-
+tri; punctum istud dicitur Focus Parabolae.
+
+IV. Si in AB axe transverso Ellipseos aut Hyperbolae sumantur F10· 9,
+duo puncta F, & O, intra Ellipfim, vel oppositas HyperbolaS, ita ut ¹⁰⁶
+rectangulum AFB vel AOB fit aequale quadrato quod fit ex semi-
+axe conjugato CM; haec puncta F, ὅτ Ο dicuntur Foci Ellipseos
+
+aut Hyperbolarum oppositarum. ,
+V. Per focum sectionis conicae ducatur recta axi ordinatim ap-
+
+plicata, & per punctum in quo occurrit sectioni ducatur contin-
+genS, haee dicitur contingens Focalis.
+
+Con. Ι. Si centro M vertice axis conjugati Ellipseos„ ὅτ in· F1c. 9·
+tervallo CA semiaxe transverse, describatur Circulu5‚' secabit axem
+transversum in focis. Nam occurrat ei in punctis F, O, ὃῑ quadratum
+ex ΜΡ five CA aequale erit quadratis ex CF δε CM simul, sed
+quadratum ex CA est etiam aequale quadrato ex CF ὃῑ rectangulo
+AFB fimul (per 5. 2.) ergo rectangulum AFB est aequale quadrato
+ex CM, ’ὅτ proinde est F focus; ὃῑ similiter erit O alter focus.
+
+Con. ΙΙ. Si a centro Hyperbolae C, sumatur in axe transverso F ¹¹¹¹¹¹
+segmentum CF, vel CO aequale rectae AMjungenti vertices axium,
+erit terminus ejus focus. Nam quadratumex AM five CF est aequale
+quadratis ex CA ὅτ CM fimul, ὅ( (per 6. 2.) idem quadratum ex
+CF est aequale quadrato ex CA ὅτ rectangulo AFB, ergo rectangu-
+lum AFB est aequale quadrato ex CM, ὅτ proinde est F focus 3 et
+
+fimiliter erit O alter focus,
+‘ Con. 111. Patet quod⁸ foci Ellipseos‚ aut Hyperbolarum oppost-
+
+tarum vel conjugatarum, aequaliter a centro distant.
+
+PROP.
+

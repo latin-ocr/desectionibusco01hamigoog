@@ -1,0 +1,42 @@
+Sestionum Conicarum Lib. Ι. 5 3
+
+P R Ο P. XXXIX.
+
+Si per punctum in asymptoto ducatur recta secans Hyper·-
+bolam, vel utrasque Hyperbolas; rectangulum conten-
+tum ‘segmentis secantis inter asymptoton δε Hyperbo-
+lam, 'vel Hyperbola8‚ erit aequale quadram, quod fit ex
+
+. semidiametro quae isti secanti est parallela.
+
+RI Mo a puncto P in asymptoto CG, ducatur recta se 1⁷¹0 32
+cans Hyperbolam in punctis R, S, ὅτ fit CN semidiameter
+secunda ipsi PRS parallela; erit rectangulum RPS aequale qua-
+drato ex contingentis segmento VX (per 37. huj.) hoc est, qua-
+
+drato ex ipsa CN per praecedentem.
+
+Secundo: per idem punctum P ducatur recta secans oppo-
+fitas Hyperbolas in R, S punctis, fit LCV diameter transversa
+ipfi RPS parallela, ὅτ ducatiir in plano contingente ADG recta
+PK parallela ipfi CA interfectioni planorum· contingentium
+ADG, ΑΕΗ & occurrens lateri coni AD m K, patet hanc PK
+contingere superficiem coni BA‘F in K, ὅτ esse ipfi CA aequa--
+Iem; quoniam, ergo recta PK contingit superficiem conicam δε
+recta PRS secat utrasque ssiperficie‘s ὅτ hae rectae sunt parallelae
+duabus rectis CA, LV occurrentibus in C, quarum una CA per
+verticem coni tranfit ὅτ proinde 'superficiem contingit· in A, δι’
+altera secat utrasque superficies; erit (per 11. huj.) rectanguliim
+RPS ad quadratumex PK, ut rectangulum VCL ad quadratum
+vex CA: sed aequantur quadrata ex‚PK‚ ὅτ· CA; ergo rectangth
+l‘um RPS aequale est (14. 5.) rectangulo VCL, hoc est, qua-
+drato ex CV vel CL semidiametro transversae ipfi RPSparallelae.
+
+‚Q E. D.
+
+Con.1. Vel fi per punctum R in Hyperbola, ducatur recta
+afymptotis occurrens in duobus punctis P, Q erit rectangulum
+PRQ contentum segmentis inter Hyperbolam δι asy mptotos,
+
+aequale
+

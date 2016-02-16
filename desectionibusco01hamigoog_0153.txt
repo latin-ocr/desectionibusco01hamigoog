@@ -1,0 +1,42 @@
+C
+
+-SeHionum Conicarum Lib. ΙΙ. 1 2 1
+
+PROP. XXXVI. PROBL. xVI.
+
+Datis ¹politione directrice Sc asymptoto Hyperbolae‚ δε
+ejus foco huic directrici‚ propiore dato; ipsam descri-
+bere.
+
+SIT recta DX directrix Hyperbolae‚ ὅτ F focus ejus isti di· Ρη, 27,-
+rectrici propior, ὅτ fit recta CY parallela uni ex ejus asymp·
+totis; plano in quo est Hyperbola imponatur norma ita ut latus
+ejus HE applicetur rectae DX, et alterum latus EG fit ad istas
+partes ipsius DX ad quas est F, ὅτ inclinetur latus normae EG
+ad latus HE ut fiat ipsi CY parallelum ; tum ope paxilli P et fili la·—
+teri EG applicati, cujus extremitas in puncto F affigitur, perfician-
+tur omnia ut in Parabola describenda Prop. 3 3. hujus ς linea motu
+paxilli P descripta erit Hyperbola‚ cujus derectrix est recta DX, et
+asymptotos parallela ipsi CY, et focus F. Nam quoniam filium GPF
+est aequale ipst GPE, erit recta PF a paxillo ad focum ducta aequalis
+rectae PE ab eodem paxillo ductae ad directricem δε asymptoto pa· ,
+
+rallelae ε δι’ proinde paxillus P movetur in Hyperbola cujus direc-
+trix est recta DX & punctum F focus huic directrici propior, δι
+
+cujus asymtotos est ipsi CY parallela, per Cor. Prop. 1 3. hujus,
+
+Con. Si planum superficiem conicam secans, ὅτ sectionem faciens
+Parabolam quam minimum inclinetur ita ut superficiei opposltae
+occurrat, sectio statim mutatur in Hyperbolam·‚ eadem etiarn -
+similitudo inter hasce sectiones observari potest in ipsarum de· .
+scriptionibus in plano; nam s1 latus normae, cui filum applicatur
+, in Parabola describenda, ad alterum latus inclinetur,· paxillus
+Hyperbolam describet, & praeterea, cum in his sectionibus descri-
+bendis larus normae per focum transit, pars fili PF inter focum
+
+, et paxillum erit quarta pars parametri axis utriusque sectionis,
+
+ut constat ex Def. foci Parabolazit ex Cor. Prop. 26. hujus.
+P R O P.
+

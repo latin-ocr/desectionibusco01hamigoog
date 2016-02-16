@@ -1,0 +1,40 @@
+1 1 o SeHiOnum Conicarum Lib. 11:-
+
+Ducatur a foco F recta FX axi ordinatim applicata, ὅτ Hyperbolae
+occurrens in X, ὅτ fit dr directrix Hy,perbolae producatur FL ut
+occurrat directrici in d & ducatur Xr ad directricem ipfi Fd paral-
+lela‚ erit Xr aequalis ipsi Fd (34. 1.) δε per Prop. 13. hujuS, erunt
+FL, Ld aquales, ut etiam FX, Xr, ergo 'Fd aequalis est ip'fi FX,
+hoc est, dimidio parametri axis transversi per partem 1. hujus, &
+
+ergo FL dimidium ipfius Fd est quarta pars parametri axis trans-
+verfi Hy perbolae
+
+PROPL XXVII.
+
+F10· ¹7· Si recta PT sectionem conicam' contingat, ἃς a 'contactu P
+ᾆξ’ ducatur recta PF ad focum F, δε ΡΝ contingenti perpen-
+dicularis occurrens axi AB, qui per focum tranfit, in N,
+
+a puncto vero Ν ducatur ad PF perpendicularis NV,
+
+abscindet haec ex PF segmentum VP aequale dimidio pa,-
+
+rametri axis ΑΒ.
+
+Pro. 20. UM sectio {it Parabola, ducatur ad axem perpendicularis
+PE; ὅτ quoniam· ostensum est, in Cor. 1. 25. hujus, quod
+PF stt ipfi NF aequalis, erit angulus? FPN aequalis angulo FNP,
+quare aequiangula sunt triangula rectangula PEN‚ NUP, δι habent
+latus ΡΝ commune; aequalia sunt igitur haecl triangula, ideoque
+est PV aequalis ipst NE, hoc est, dimidio parametri axis (25. Prop.
+
+t. hu'us.)
+1²10. ¹7· Sijvero sectio fit Ellipsrs aut? Hyperbola, ducatur a centro ad
+¹3· contingentem recta CK ipsi perpendicularis, &CT ipfi PF pa-
+rallela, fitque CM :semiaxis secundus, δε quoniam.CK,CT paral-
+lelae sunt ipsis ΡΝ, PV, erunt anguli KCT, NPV muner, ideo-
+que aequiangula sunt triangula rectangula CKT, NVP, quare rec-
+tangulum CT in PV est aequale rectangulo CK in NP, hoc est,
+quadrato ex CM (232. huj.) ergo proportionales fim't CT, GM, .
+

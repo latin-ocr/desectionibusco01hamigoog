@@ -1,0 +1,48 @@
+De Parabola. 1 3 5
+
+quas sunt B et A quia D est extra Parabolam) ergo Parabola oc-
+currit rectae DB in puncto A. Quoniam segmentum DE sumi
+potest in recta DGF ad alterutram partem puncti D, duae Parabolae
+describi possunt quae Problemati satisfacient.
+
+Cas.. 2. Sint B, G, F, P quatuor puncta data, <Sc {int junctae
+GF ὃῑ ΒΡ parallelae ; recta MN has parallelas bifariam secans erit
+diameter Parabolae transeuntis per haec quatuor puncta (per Cor.
+6. 2 5. lib. 1.) describatur igitur Parabola per tria puncta B, G, F,
+eujus diametri fint parallelae rectae MN et cum recta BN fit
+ordinatim applicata diametro hujusce Parabolae, et ΡΝ aequalis sit
+ipfi BN, tranfibit haec Paraboia per punctum P. Patet in hoc
+casu, unicam esse positionem diametrorum Parabolae quae per haec
+puncta transit, et proinde unicam Parabolam per haec puncta
+
+transire posse.
+
+CoR. Ex constructione hujus patet methodus inveniendi po-
+fitionem diametrorum Parabolae ex quatuor punctis in ipsa
+
+datis,
+
+PROP. X.
+
+Duae Parabolae, communem habentes axem δε eandem pa-
+rametrum principalem, in infinitum productae ad se invi-
+
+cem semper propius accedunt, 'nunquam vero conveniunt.-
+
+SINT AEF‚ DCB duae Parabolae communem habentes axem Fig. 10,
+ΕΗ, et fit recta PQutriusque parameter principalis ; ducatur ⁷
+recta axi ordinatim applicata ei occurrens in G et Parabolae ex-
+
+teriori in punctis A, F 31 interiori in D. Quoniam qua-
+dratum ex AG aequale ‘est rectangulo GE in PQ &quadratum
+
+ex DG est aequale rectangulo GC in PQ erit differentia horum
+quadratorum. hoc est rectangulum ADF (5. 2.) aequale, rectangulo
+
+CE in PQ erg0‚ ob datum CE in PQ, rectangulum ADF erit
+
+semper ejusdem magnitudinis, quo vero longius recedit punctum D
+a vertlce
+
+oiqiuzeu noy GOOglC ‘f
+

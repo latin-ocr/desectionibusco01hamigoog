@@ -1,0 +1,39 @@
+. 16.
+
+1 04 SeHiOnum Conicarum Lib. 11 .
+
+per focos, ab utrovis foco ut F ducatur ad GH perpendicularis
+FT, occurratque ipsi ΟΡ in E, et quoniam aequales sunt anguli
+FPT, EPT, (par. 2. Prop. 16, 17. huj.) et communis PT, erit FT
+aequalis ipsi TE et PF ipfi PE, igitur circuli diameter GH bifariam
+et perpendiculariter secat ipsam FE, et est punctum F in ipsius
+circumferentia, ergo est punctum E in eadem3 et proinde prop-
+ter circulum est rectangulum OPE, hoe est, OPF aequale rectan·.
+gulo GPH, hoc est, quadrato ex semidiametro CD ipsi GH pa-
+rallela (per par. 2· Prop. 50. lib. 1.) Q E. D.
+
+PROP. XX.
+
+Si ·a focis Ellipscos au't Hyperbolie F ὅτ Ο dimittantur ad
+qualmvis contingentem GPH perpendiculares FT, 0L;
+
+circulus circa axem transversum descriptus tranfibit per
+puncta T et L iu quibua sciz- perpendiculares contingenti ,
+» occurrunt. ' ’
+
+IT enim, AB axis transversus et centrum C, et a contactu
+
+P ducantur PF, ΡΟ ad foeoS, occurratque perpendicularis FT
+ipfi Po in E, et jungatur CT. Qoniam aequales sunt anguli
+FPT,EPT (16, et 17. huj.) et communis PT, erit FP aequalis
+ipsi PE, ergo OE est aequalis axi transverso(14. huj.)'sed aequalcs
+sunt quoque FT, TE δε etiam FC, CO (Cor. 3. Def. 5. hujss) ergo
+parallelae sunt OE, CT, et proinde quoniam CF est dimidium ip-
+sius OF, erit CT dimidium ipsius OE, hoc est, dimidium axis
+
+’ transversi AB: ergo punctum T estin circumferenti circuli circa
+
+AB descripti, et similiter erit punctum L in eadem. . Q E. D.
+
+PROP.
+
